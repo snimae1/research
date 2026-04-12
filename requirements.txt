@@ -1,2 +1,1 @@
-Pylint
-SonarQube
+Pylint == 4.0.5
