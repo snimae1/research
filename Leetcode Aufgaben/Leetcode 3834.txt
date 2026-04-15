@@ -1,3 +1,6 @@
+Leetcode 3834. Merge Adjacent equal Elements
+Schwierigkeit "Medium"
+
 You are given an integer array nums.
 
 You must repeatedly apply the following merge operation until no more changes can be made:
