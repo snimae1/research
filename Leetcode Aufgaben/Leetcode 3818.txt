@@ -1,5 +1,5 @@
 Leetcode 3818. "Minimum Prefix Removal to make Array strictly increasing"
-Schwierigkeit Medium
+Schwierigkeit "Medium"
 
 
 
