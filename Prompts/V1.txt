@@ -1,6 +1,6 @@
 Erstelle mir ein Python Programm mit dieser Syntax:
 class Solution(object):
-    def "Name of Functionin Leetcode"("parameter in Leetcode"):
+    def "Name of Function in Leetcode"("parameter in Leetcode"):
 
 , welches folgende Aufgabe löst:
 "Aufgaben Text aus Leetcode"
