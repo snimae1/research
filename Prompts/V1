@@ -1,6 +1,6 @@
 Erstelle mir ein Python Programm mit dieser Syntax:
 class Solution(object):
-    def countMonobit(self, n):
+    def "Name of Functionin Leetcode"("parameter in Leetcode"):
 
 , welches folgende Aufgabe löst:
 "Aufgaben Text aus Leetcode"
