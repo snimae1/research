@@ -56,7 +56,3 @@ Constraints:
 1 <= nums.length <= 100
 0 <= nums[i] <= 109
 0 <= k <= 109
-
-1 <= nums.length <= 100
-0 <= nums[i] <= 109
-0 <= k <= 109
