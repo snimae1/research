@@ -1,0 +1,8 @@
+Runtime Error
+AttributeError: 'module' object has no attribute 'lru_cache'
+    @functools.lru_cache(None)
+Line 16 in maxScore (Solution.py)
+    ret = Solution().maxScore(param_1, param_2, param_3)
+Line 78 in _driver (Solution.py)
+    _driver()
+Line 92 in <module> (Solution.py)
