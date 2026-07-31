@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3917."Count Indices with opposite Parity"
+Leetcode 3917. "Count Indices with opposite Parity"
 Schwierigkeit "Easy"
 
 You are given an integer array nums of length n.
