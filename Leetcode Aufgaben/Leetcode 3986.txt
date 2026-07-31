@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3986. "Number of elapsed seconds between two Times"
+Leetcode 3986. "Number of elapsed seconds between two Times"
 Schwierigkeit "Easy"
 
 You are given two valid times startTime and endTime, each represented as a string in the format "HH:MM:SS".
