@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3974. "Maximum total sum of K selected Elements"
+Leetcode 3974. "Maximum total sum of K selected Elements"
 Schwierigkeit "Medium"
 
 You are given an integer array nums and two integers k and mul.
