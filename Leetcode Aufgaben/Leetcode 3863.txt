@@ -1,4 +1,4 @@
-Leetcode 3863. Minimum Operations to sort a String
+Leetcode 3863. "Minimum Operations to sort a String"
 Schwierigkeit "Medium"
 
 You are given a string s consisting of lowercase English letters.
