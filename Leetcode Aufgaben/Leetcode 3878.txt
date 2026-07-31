@@ -1,4 +1,4 @@
-Leetcode 3878. Count good Subarrays
+Leetcode 3878. "Count good Subarrays"
 Schwierigkeit "Hard"
 
 You are given an integer array nums.
