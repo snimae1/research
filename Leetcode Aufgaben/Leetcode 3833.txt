@@ -1,4 +1,4 @@
-Leetcode 3833. Count dominant Indices
+Leetcode 3833. "Count dominant Indices"
 Schwierigkeit "Easy"
 
 You are given an integer array nums of length n.
