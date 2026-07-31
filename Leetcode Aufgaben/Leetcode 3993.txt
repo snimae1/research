@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3993. "Maximum Value of alternating Sequence"
+Leetcode 3993. "Maximum Value of alternating Sequence"
 Schwierigkeit "Medium"
 
 You are given three integers n, s, and m.
