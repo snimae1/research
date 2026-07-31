@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3931. "Check adjacent Digit differences"
+Leetcode 3931. "Check adjacent Digit differences"
 Schwierigkeit "Easy"
 
 You are given a string s consisting of digits.
