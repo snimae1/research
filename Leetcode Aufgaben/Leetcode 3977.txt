@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3977. "Minimum Time to reach target with limited Power"
+Leetcode 3977. "Minimum Time to reach target with limited Power"
 Schwierigkeit "Hard"
 
 You are given a directed weighted graph with n nodes labeled from 0 to n - 1.
