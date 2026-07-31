@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3905. "Multi Source Flood Fill"
+Leetcode 3905. "Multi Source Flood Fill"
 Schwierigkeit "Medium"
 
 You are given two integers n and m representing the number of rows and columns of a grid, respectively.
