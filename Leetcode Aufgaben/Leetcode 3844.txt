@@ -1,5 +1,6 @@
 Leetcode 3822. Longest almost palindromic Substring
 Schwierigkeit "Medium"
+
 You are given a string s consisting of lowercase English letters.
 
 A substring is almost-palindromic if it becomes a palindrome after removing exactly one character from it.
