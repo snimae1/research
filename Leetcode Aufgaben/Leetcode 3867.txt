@@ -1,4 +1,4 @@
-Leetcode 3867. Sum of GCD of formed Pairs
+Leetcode 3867. "Sum of GCD of formed Pairs"
 Schwierigkeit "Medium"
 
 You are given an integer array nums of length n.
