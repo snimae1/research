@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3919."Minimum cost to move between Indices"
+Leetcode 3919."Minimum cost to move between Indices"
 Schwierigkeit "Medium"
 
 You are given an integer array nums where nums is strictly increasing.
