@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3966."Count good Integers in a Range"
+Leetcode 3966. "Count good Integers in a Range"
 Schwierigkeit "Hard"
 
 You are given three integers l, r and k.
