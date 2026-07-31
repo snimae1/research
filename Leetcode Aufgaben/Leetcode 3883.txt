@@ -1,4 +1,4 @@
-3882. Count non decreasing Arrays with given digit Sums
+Leetcode Aufgabe 3882. "Count non decreasing Arrays with given digit Sums"
 Schwierigkeit "Hard"
 
 You are given an integer array digitSum of length n.
