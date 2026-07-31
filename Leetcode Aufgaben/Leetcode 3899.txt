@@ -1,4 +1,4 @@
-Leetcode 3899. Angles of a Triangle
+Leetcode 3899. "Angles of a Triangle"
 Schwierigkeit "Medium"
 
 You are given a positive integer array sides of length 3.
