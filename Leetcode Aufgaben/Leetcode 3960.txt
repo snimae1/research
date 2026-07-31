@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3960. "Frequency Balance Subarray"
+Leetcode 3960. "Frequency Balance Subarray"
 Schwierigkeit "Medium"
 
 You are given an integer array ​​​​​​​nums.
