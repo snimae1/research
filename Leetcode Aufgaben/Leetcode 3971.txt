@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3971. "Maximum total Value"
+Leetcode 3971. "Maximum total Value"
 Schwierigkeit "Hard"
 
 You are given two integer arrays value and decay, and an integer m.
