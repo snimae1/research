@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3932. "Count K-th Roots in a Range"
+Leetcode 3932. "Count K-th Roots in a Range"
 Schwierigkeit "Medium"
 
 You are given three integers l, r, and k.
