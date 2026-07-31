@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3936. "Minimum swaps to move Zeros to End"
+Leetcode 3936. "Minimum swaps to move Zeros to End"
 Schwierigkeit "Easy"
 
 You are given an integer array nums.
