@@ -1,4 +1,4 @@
-Leetcode 3873.Maximum Points activated with one Addition
+Leetcode 3873. "Maximum Points activated with one Addition"
 Schwierigkeit "Hard"
 
 You are given a 2D integer array points, where points[i] = [xi, yi] represents the coordinates of the ith point. All coordinates in points are distinct.
