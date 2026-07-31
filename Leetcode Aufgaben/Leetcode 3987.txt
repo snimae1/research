@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3987. "Minimum total Cost to process all Elements"
+Leetcode 3987. "Minimum total Cost to process all Elements"
 Schwierigkeit "Medium"
 
 You are given an integer array nums and an integer k.
