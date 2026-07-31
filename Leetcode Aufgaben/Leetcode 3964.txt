@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3964. "Minimum Lights to Illuminate a Road"
+Leetcode 3964. "Minimum Lights to Illuminate a Road"
 Schwierigkeit "Medium"
 
 You are given an integer array lights of length n, representing positions 0 through n - 1 on a road.
