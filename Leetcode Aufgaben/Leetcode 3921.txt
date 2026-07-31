@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3921. "Score Validator"
+Leetcode 3921. "Score Validator"
 Schwierigkeit "Easy"
 
 You are given a string array events.
