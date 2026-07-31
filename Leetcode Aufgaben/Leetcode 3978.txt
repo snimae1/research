@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3978. "Unique middle Element"
+Leetcode 3978. "Unique middle Element"
 Schwierigkeit "Easy"
 
 You are given an integer array nums of odd length n.
