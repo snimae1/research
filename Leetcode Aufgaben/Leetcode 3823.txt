@@ -1,4 +1,4 @@
-Leetcode 3823. Reverse Letters then special characters in a String
+Leetcode 3823. "Reverse Letters then special characters in a String"
 Schwierigkeit "Easy"
 
 You are given a string s consisting of lowercase English letters and special characters.
