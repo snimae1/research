@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3979. "Maximum valid pair Sum"
+Leetcode 3979. "Maximum valid pair Sum"
 Schwierigkeit "Medium"
 
 You are given an integer array nums of length n and an integer k.
