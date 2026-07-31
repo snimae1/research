@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3912. "Valid Elements in an Array"
+Leetcode 3912. "Valid Elements in an Array"
 Schwierigkeit "Easy"
 
 You are given an integer array nums.
