@@ -1,4 +1,4 @@
-Leetcode 3900. Longest balanced Substring after one Swap
+Leetcode 3900. "Longest balanced Substring after one Swap"
 Schwierigkeit "Medium"
 
 You are given a binary string s consisting only of characters '0' and '1'.
