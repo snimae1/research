@@ -1,0 +1,7 @@
+AttributeError: 'module' object has no attribute 'gcd'
+    g = math.gcd(num, current_max)
+Line 15 in gcdSum (Solution.py)
+    ret = Solution().gcdSum(param_1)
+Line 53 in _driver (Solution.py)
+    _driver()
+Line 67 in <module> (Solution.py)
