@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3914. "Minimum Operations to make Array non Decreasing"
+Leetcode 3914. "Minimum Operations to make Array non Decreasing"
 Schwierigkeit "Medium"
 
 You are given an integer array nums of length n.
