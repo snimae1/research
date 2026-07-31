@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3941."Password Strength"
+Leetcode 3941."Password Strength"
 Schwierigkeit "Medium"
 
 You are given a string password.
