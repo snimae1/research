@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3994. "Minimum adjacent swaps to partition Array"
+Leetcode 3994. "Minimum adjacent swaps to partition Array"
 Schwierigkeit "Medium"
 
 You are given an integer array nums and two integers a and b such that a < b.
