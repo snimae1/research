@@ -1,4 +1,4 @@
-Leetcode 3854. Minimum Operations to make Array parity Alternating
+Leetcode 3854. "Minimum Operations to make Array parity Alternating"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
