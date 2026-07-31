@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3989. "Maxium consistent Columns in a Grid"
+Leetcode 3989. "Maxium consistent Columns in a Grid"
 Schwierigkeit "Hard"
 
 You are given a 2D integer array grid of size m x n, and an integer limit.
