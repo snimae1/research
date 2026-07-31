@@ -1,4 +1,4 @@
-Leetcode 3847. Find the Score difference in a Game
+Leetcode 3847. "Find the Score difference in a Game"
 Schwierigkeit "Medium"
 
 You are given an integer array nums, where nums[i] represents the points scored in the ith game.
