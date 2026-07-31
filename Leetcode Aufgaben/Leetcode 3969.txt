@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3969. "Valid Subarrays with matching sum Digits 1"
+Leetcode 3969. "Valid Subarrays with matching sum Digits 1"
 Schwierigkeit "Medium"
 
 You are given an integer array nums and an integer digit x.
