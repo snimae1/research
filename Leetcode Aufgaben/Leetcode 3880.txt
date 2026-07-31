@@ -1,4 +1,4 @@
-Leetcode 3880. Minimum absolute Difference between two Values
+Leetcode 3880. "Minimum absolute Difference between two Values"
 Schwierigkeit "Easy"
 
 You are given an integer array nums consisting only of 0, 1, and 2.
