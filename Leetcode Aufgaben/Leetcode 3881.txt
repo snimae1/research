@@ -1,4 +1,4 @@
-Leetcode 3881. Direction Assignment with exactly k visible People
+Leetcode 3881. "Direction Assignment with exactly k visible People"
 Schwierigkeit "Medium"
 
 You are given three integers n, pos, and k.
