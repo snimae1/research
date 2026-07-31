@@ -1,4 +1,7 @@
-Leetcode 3918. "You are given an integer n.
+Leetcode 3918. "Sum of Primes between Number and its Reverse"
+Schwierigkeit "Medium"
+
+You are given an integer n.
 
 Let r be the integer formed by reversing the digits of n.
 
