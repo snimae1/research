@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3909. "Compare Sums of Bitonic Parts"
+Leetcode 3909. "Compare Sums of Bitonic Parts"
 Schwierigkeit "Medium"
 
 You are given a bitonic array nums of length n.
