@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3983. "Subsequence after one Replacement"
+Leetcode 3983. "Subsequence after one Replacement"
 Schwierigkeit "Medium"
 
 You are given two strings s and t consisting of lowercase English letters.
