@@ -1,4 +1,4 @@
-Leetcode 3898. Find the Degree of each Vertex
+Leetcode 3898. "Find the Degree of each Vertex"
 Schwierigkeit "Easy"
 
 You are given a 2D integer array matrix of size n x n representing the adjacency matrix of an undirected graph with n vertices labeled from 0 to n - 1.
