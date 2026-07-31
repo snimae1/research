@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3982. "Sum of integers with maximum digit Range"
+Leetcode 3982. "Sum of integers with maximum digit Range"
 Schwierigkeit "Easy"
 
 You are given an integer array nums.
