@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3913."Sort Vowels by Frequency"
+Leetcode 3913. "Sort Vowels by Frequency"
 Schwierigkeit "Medium"
 
 You are given a string s consisting of lowercase English characters.
