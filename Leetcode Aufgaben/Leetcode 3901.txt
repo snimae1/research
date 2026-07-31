@@ -1,4 +1,4 @@
-Leetcode 3901. Good Subsequence Queries
+Leetcode 3901. "Good Subsequence Queries"
 Schwierigkeit "Hard"
 
 You are given an integer array nums of length n and an integer p.
