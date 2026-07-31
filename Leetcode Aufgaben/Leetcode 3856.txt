@@ -1,4 +1,4 @@
-Leetcode 3856. Trim trailing Vowels
+Leetcode 3856. "Trim trailing Vowels"
 Schwiergkeit "Easy"
 
 You are given a string s that consists of lowercase English letters.
