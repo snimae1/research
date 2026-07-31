@@ -1,4 +1,4 @@
-Leetcode Aufgabe "Maximum Sum of Alternating Subsequence with Distance at least K"
+Leetcode 3915. "Maximum Sum of Alternating Subsequence with Distance at least K"
 Schwierigkeit "Hard"
 
 You are given an integer array nums of length n and an integer k.
