@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3937. "Minimum Operations to make Array Modulo Alternating 1"
+Leetcode 3937. "Minimum Operations to make Array Modulo Alternating 1"
 Schwierigkeit "Medium"
 
 You are given an integer array nums and an integer k.
