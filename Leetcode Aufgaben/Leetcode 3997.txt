@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3997. "Count dominant Nodes in a binary Tree"
+Leetcode 3997. "Count dominant Nodes in a binary Tree"
 Schwierigkeit "Medium"
 
 You are given the root of a complete binary tree.
