@@ -1,0 +1,9 @@
+# .pylintrc
+[MASTER]
+ignore=migrations,tests/__init__.py,Leetcode Aufgaben, Prompts   # Ordner/Dateien, die ignoriert werden sollen
+
+[MESSAGES CONTROL]
+disable=C0114,C0115,C0116            # Docstring‑Checks deaktivieren (optional)
+
+[FORMAT]
+max-line-length=120                 # Zeilenlänge, passend zu Black
