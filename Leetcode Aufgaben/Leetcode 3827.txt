@@ -1,4 +1,4 @@
-Leetcode 3827. Count Monobit Integers
+Leetcode 3827. "Count Monobit Integers"
 Schwierigkeit "Easy"
 
 You are given an integer n.
