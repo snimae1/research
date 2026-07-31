@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3926. "Count Valid Word Occurences"
+Leetcode 3926. "Count Valid Word Occurences"
 Schwierigkeit "Medium"
 
 You are given an array of strings chunks. Concatenate all strings in chunks in order to form a string s.
