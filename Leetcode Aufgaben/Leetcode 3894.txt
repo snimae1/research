@@ -1,4 +1,4 @@
-Leetcode 3894. Traffic Signal Color
+Leetcode 3894. "Traffic Signal Color"
 Schwierigkeit "Easy"
 
 You are given an integer timer representing the remaining time (in seconds) on a traffic signal.
