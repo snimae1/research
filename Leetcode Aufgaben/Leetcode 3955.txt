@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3955. "Valid binary Strings with cost Limit"
+Leetcode 3955. "Valid binary Strings with cost Limit"
 Schwierigkeit "Medium"
 
 You are given two integers n and k.
