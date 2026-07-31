@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3988. "Create Grid with exactly K Paths 1"
+Leetcode 3988. "Create Grid with exactly K Paths 1"
 Schwierigkeit "Medium"
 
 You are given three integers m, n, and k.
