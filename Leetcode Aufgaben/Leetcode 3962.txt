@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3962. "Maximum Subarray sum after at most K Swaps"
+Leetcode 3962. "Maximum Subarray sum after at most K Swaps"
 Schwierigkeit "Hard"
 
 You are given an integer array nums and an integer k.
