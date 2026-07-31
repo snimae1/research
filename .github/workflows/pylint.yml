@@ -1,1 +1,66 @@
+# .github/workflows/pylint.yml
+name: 🔍 Lint – Pylint
 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  pylint:
+    runs-on: ubuntu-latest
+    steps:
+      # -------------------------------------------------------
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0               # komplette Historie (wird später von Sonar gebraucht)
+
+      # -------------------------------------------------------
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------------------------------------
+      - name: 📦 Cache pip packages
+        uses: actions/cache@v4
+        env:
+          cache-name: cache-pip
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # -------------------------------------------------------
+      - name: 🛠 Install Pylint (und Projekt‑Abhängigkeiten)
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install pylint
+
+      # -------------------------------------------------------
+      - name: 🚦 Run Pylint
+        id: run-pylint
+        run: |
+          source .venv/bin/activate
+          ARGS="${{ secrets.PYLINT_ARGS }}"   # z. B. "--disable=C0114"
+          pylint $ARGS dein_package/ | tee pylint-report.txt
+
+      # -------------------------------------------------------
+      - name: 📊 Publish Annotations (inline warnings/errors)
+        uses: yogeshlonkar/pylint-github-action@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          report_path: pylint-report.txt
+
+      # -------------------------------------------------------
+      - name: 📤 Upload raw Pylint report (optional, for debugging)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pylint-report
+          path: pylint-report.txt
