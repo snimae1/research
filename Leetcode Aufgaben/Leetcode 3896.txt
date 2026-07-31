@@ -1,4 +1,4 @@
-Leetcode 3896. Minimum Operations to transform Array into alternating Prime
+Leetcode 3896. "Minimum Operations to transform Array into alternating Prime"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
