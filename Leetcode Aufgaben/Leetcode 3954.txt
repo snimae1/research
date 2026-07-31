@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3954. "Sum of Compatible Numbers in Range 1"
+Leetcode 3954. "Sum of Compatible Numbers in Range 1"
 Schwierigkeit "Easy"
 
 You are given two integers n and k.
