@@ -1,4 +1,4 @@
-Leetcode 3868. Minimum cost to equalize Arrays using swaps
+Leetcode 3868. "Minimum cost to equalize Arrays using swaps"
 Schwierigkeit "Medium"
 
 You are given two integer arrays nums1 and nums2 of size n.
