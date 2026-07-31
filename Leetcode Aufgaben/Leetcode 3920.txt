@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3920."Maximize fixed Points after Deletions"
+Leetcode 3920."Maximize fixed Points after Deletions"
 Schwierigkeit "Hard"
 
 You are given an integer array nums.
