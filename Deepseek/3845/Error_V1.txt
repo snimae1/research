@@ -1,0 +1,4 @@
+SyntaxError: invalid syntax
+                        ^
+    def insert(self, num: int) -> None:
+Line 11  (Solution.py)
