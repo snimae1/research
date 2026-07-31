@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3904. "Smallest Stable Index 2"
+Leetcode 3904. "Smallest Stable Index 2"
 Schwierigkeit "Medium"
 
 You are given an integer array nums of length n and an integer k.
