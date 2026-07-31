@@ -1,4 +1,4 @@
-Leetcode 3875. Construct uniform parity Array I
+Leetcode 3875. "Construct uniform parity Array I"
 Schwierigkeit "Easy"
 
 You are given an array nums1 of n distinct integers.
