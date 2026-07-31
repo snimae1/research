@@ -1,4 +1,4 @@
-Leetcode 3885. Design Event Manager
+Leetcode 3885. "Design Event Manager"
 Schwierigkeit "Medium"
 
 You are given an initial list of events, where each event has a unique eventId and a priority.
