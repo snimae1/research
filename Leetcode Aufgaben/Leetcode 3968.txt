@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3968. "Maximum Manhattan Distance after all Moves"
+Leetcode 3968. "Maximum Manhattan Distance after all Moves"
 Schwierigkeit "Medium"
 
 You are given a string moves consisting of the characters 'U', 'D', 'L', 'R', and '_'.
