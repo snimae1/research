@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3963. "Create Grid with Exactly one Path"
+Leetcode 3963. "Create Grid with Exactly one Path"
 Schwierigkeit "Easy"
 
 You are given two integers m and n, representing the number of rows and columns of a grid.
