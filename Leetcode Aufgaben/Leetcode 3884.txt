@@ -1,4 +1,4 @@
-Leetcode 3884 First matching Character from both Ends
+Leetcode 3884. "First matching Character from both Ends"
 Schwierigkeit "Easy"
 
 You are given a string s of length n consisting of lowercase English letters.
