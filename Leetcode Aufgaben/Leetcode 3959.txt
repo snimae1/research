@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3959."Check good Integer"
+Leetcode 3959. "Check good Integer"
 Schwierigkeit "Easy"
 
 You are given a positive integer n.
