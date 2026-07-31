@@ -1,4 +1,4 @@
-Leetcode 3834. Merge Adjacent equal Elements
+Leetcode 3834. "Merge Adjacent equal Elements"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
