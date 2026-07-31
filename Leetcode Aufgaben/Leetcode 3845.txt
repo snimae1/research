@@ -1,4 +1,4 @@
-Leetcode 3845. Maximum Subarray XOR with bounded Range
+Leetcode 3845. "Maximum Subarray XOR with bounded Range"
 Schwierigkeit "Hard"
 
 You are given a non-negative integer array nums and an integer k.
