@@ -1,0 +1,3 @@
+ImportError: cannot import name gcd
+    from math import gcd
+Line 1 in <module> (Solution.py)
