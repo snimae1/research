@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3918."You are given an integer n.
+Leetcode 3918. "You are given an integer n.
 
 Let r be the integer formed by reversing the digits of n.
 
