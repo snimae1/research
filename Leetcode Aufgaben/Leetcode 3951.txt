@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3951. "Minimum Eneergy to Maintain Brightness"
+Leetcode 3951. "Minimum Eneergy to Maintain Brightness"
 Schwierigkeit "Medium"
 
 You are given an integer n, representing n light bulbs arranged in a line and indexed from 0 to n - 1.
