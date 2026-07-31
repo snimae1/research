@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3950. "Exactly one Consecutive Set Bits Pair"
+Leetcode 3950. "Exactly one Consecutive Set Bits Pair"
 Schwierigkeit "Easy"
 
 You are given an integer n.
