@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3992. "Rearrange String to avoid character Pair"
+Leetcode 3992. "Rearrange String to avoid character Pair"
 Schwierigkeit "Easy"
 
 You are given a string s and two distinct lowercase English letters x and y.
