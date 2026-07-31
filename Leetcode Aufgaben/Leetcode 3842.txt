@@ -1,4 +1,4 @@
-Leetcode 3842. Toggle light Bulbs
+Leetcode 3842. "Toggle light Bulbs"
 Schwierigkeit "Easy"
 
 You are given an array bulbs of integers between 1 and 100.
