@@ -1,0 +1,4 @@
+SyntaxError: invalid syntax
+                                      ^
+    def minDistinctFreqPair(self, nums: List[int]) -> List[int]:
+Line 5  (Solution.py)
