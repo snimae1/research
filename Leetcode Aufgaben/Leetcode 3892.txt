@@ -1,4 +1,4 @@
-Leetcode 3892. Minimum Operations to achieve at least k Peaks
+Leetcode 3892. "Minimum Operations to achieve at least k Peaks"
 Schwierigkeit "Hard"
 
 You are given a ​​​​​​​circular integer array​​​​​​​ nums of length n.
