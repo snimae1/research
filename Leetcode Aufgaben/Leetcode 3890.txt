@@ -1,4 +1,4 @@
-Leetcode 3890. Integers with multiple Sum of two Cubes
+Leetcode 3890. "Integers with multiple Sum of two Cubes"
 Schwierigkeit "Medium"
 
 You are given an integer n.
