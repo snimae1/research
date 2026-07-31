@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3908."Valid Digit Number" 
+Leetcode 3908."Valid Digit Number" 
 Schwierigkeit "Easy"
 
 You are given an integer n and a digit x.
