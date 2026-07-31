@@ -1,4 +1,4 @@
-Leetcode 3862. Find the smallest balanced Index
+Leetcode 3862. "Find the smallest balanced Index"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
