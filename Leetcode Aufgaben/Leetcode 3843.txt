@@ -1,4 +1,4 @@
-Leetcode 3843. First Element with unique Frequency
+Leetcode 3843. "First Element with unique Frequency"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
