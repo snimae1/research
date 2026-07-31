@@ -1,4 +1,4 @@
-Leetcode 3872. Longest arithmetic Sequence after changing at most one Element
+Leetcode 3872. "Longest arithmetic Sequence after changing at most one Element"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
