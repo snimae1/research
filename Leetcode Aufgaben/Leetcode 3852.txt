@@ -1,4 +1,4 @@
-Leetcode 3852. Smallest pair with different Frquencies
+Leetcode 3852. "Smallest pair with different Frquencies"
 Schwierigkeit "Easy"
 
 You are given an integer array nums.
