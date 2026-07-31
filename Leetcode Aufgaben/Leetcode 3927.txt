@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3927. "Minimize Array Sum using divisible Replacements"
+Leetcode 3927. "Minimize Array Sum using divisible Replacements"
 Schwierigkeit "Medium"
 
 You are given an integer array nums.
