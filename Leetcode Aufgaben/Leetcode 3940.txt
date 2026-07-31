@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3940. "Limit Occurences in Sorted Array"
+Leetcode 3940. "Limit Occurences in Sorted Array"
 Schwierigkeit "Easy"
 
 You are given a sorted integer array nums and an integer k.
