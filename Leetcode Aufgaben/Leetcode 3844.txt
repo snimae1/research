@@ -1,4 +1,4 @@
-Leetcode 3822. Longest almost palindromic Substring
+Leetcode 3822. "Longest almost palindromic Substring"
 Schwierigkeit "Medium"
 
 You are given a string s consisting of lowercase English letters.
