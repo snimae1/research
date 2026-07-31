@@ -1,4 +1,4 @@
-Leetcode Aufgabe 3945. "Digit Frequency Score"
+Leetcode 3945. "Digit Frequency Score"
 Schwierigkeit "Easy"
 
 You are given an integer n.
