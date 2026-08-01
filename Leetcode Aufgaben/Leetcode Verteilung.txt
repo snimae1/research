@@ -1,0 +1,4 @@
+Aufgaben mit Schwierigkeit
+"Easy" = 
+"Medium" = 
+"Hard" = 
