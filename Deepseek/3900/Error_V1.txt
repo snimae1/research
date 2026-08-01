@@ -1,5 +1,0 @@
-AttributeError: 'Solution' object has no attribute 'countGoodSubseq'
-    ret = Solution().countGoodSubseq(param_1, param_2, param_3)
-Line 111 in _driver (Solution.py)
-    _driver()
-Line 125 in <module> (Solution.py)
