@@ -1,4 +1,4 @@
 Aufgaben mit Schwierigkeit
-"Easy" = 
-"Medium" = 
-"Hard" = 
+"Easy" = 18
+"Medium" = 30
+"Hard" = 18
