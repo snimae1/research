@@ -1,3 +1,0 @@
-ImportError: No module named typing
-    from typing import List
-Line 1 in <module> (Solution.py)
