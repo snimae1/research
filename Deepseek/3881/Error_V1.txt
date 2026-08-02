@@ -1,4 +1,0 @@
-SyntaxError: invalid syntax
-                      ^
-    MOD = 1_000_000_007
-Line 10  (Solution.py)
