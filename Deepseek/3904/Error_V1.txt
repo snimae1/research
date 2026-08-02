@@ -1,4 +1,0 @@
-SyntaxError: invalid syntax
-                        ^
-    return -1  suffix_min[i] = min(nums[i], suffix_min[i + 1])
-Line 27  (Solution.py)
