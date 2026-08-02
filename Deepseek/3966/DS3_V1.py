@@ -47,9 +47,3 @@ class Solution(object):
             return dp(0, 10, True, False)
         
         return count_up_to(r) - count_up_to(l - 1)
-
-# Optional: quick test
-if __name__ == "__main__":
-    sol = Solution()
-    print(sol.goodIntegers(10, 15, 1))   # Expected: 3
-    print(sol.goodIntegers(201, 204, 2)) # Expected: 2
