@@ -1,7 +1,0 @@
-AttributeError: 'module' object has no attribute 'gcd'
-    g = math.gcd(g, nums[i])
-Line 28 in countGoodSubseq (Solution.py)
-    ret = Solution().countGoodSubseq(param_1, param_2, param_3)
-Line 139 in _driver (Solution.py)
-    _driver()
-Line 153 in <module> (Solution.py)
