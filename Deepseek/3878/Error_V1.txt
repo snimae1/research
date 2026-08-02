@@ -1,4 +1,0 @@
-SyntaxError: invalid syntax
-                                     ^
-    def countGoodSubarrays(self, nums: List[int]) -> int:
-Line 4  (Solution.py)
