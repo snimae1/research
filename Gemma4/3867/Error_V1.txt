@@ -1,7 +1,0 @@
-AttributeError: 'module' object has no attribute 'gcd'
-    prefixGcd.append(math.gcd(nums[i], mxi))
-Line 21 in gcdSum (Solution.py)
-    ret = Solution().gcdSum(param_1)
-Line 63 in _driver (Solution.py)
-    _driver()
-Line 77 in <module> (Solution.py)
