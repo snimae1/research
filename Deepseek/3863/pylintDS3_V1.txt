@@ -1,0 +1,14 @@
+************* Module 3863DS3_V1
+C0304:missing-final-newline: 48,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3863DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "minOperations" doesn't conform to snake_case naming style
+R1730:consider-using-min-builtin: 19,12: Consider using 'min_c = min(min_c, ch)' instead of unnecessary if block
+R1731:consider-using-max-builtin: 21,12: Consider using 'max_c = max(max_c, ch)' instead of unnecessary if block
+R0912:too-many-branches:  2,4: Too many branches (13/12)
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 6.97/10  
