@@ -1,0 +1,22 @@
+************* Module 3883DS3_V1
+C0303:trailing-whitespace:  9,0: Trailing whitespace
+C0303:trailing-whitespace: 18,0: Trailing whitespace
+C0303:trailing-whitespace: 23,0: Trailing whitespace
+C0303:trailing-whitespace: 25,0: Trailing whitespace
+C0303:trailing-whitespace: 30,0: Trailing whitespace
+C0303:trailing-whitespace: 35,0: Trailing whitespace
+C0303:trailing-whitespace: 42,0: Trailing whitespace
+C0303:trailing-whitespace: 48,0: Trailing whitespace
+C0304:missing-final-newline: 49,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3883DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "countArrays" doesn't conform to snake_case naming style
+C0103:invalid-name:  2,26: Argument name "digitSum" doesn't conform to snake_case naming style
+C0103:invalid-name:  7,8: Variable name "MOD" doesn't conform to snake_case naming style
+C0103:invalid-name:  8,8: Variable name "MAX_VAL" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 3.79/10
