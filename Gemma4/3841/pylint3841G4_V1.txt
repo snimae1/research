@@ -1,0 +1,21 @@
+************* Module 3841G4_V1
+C0303:trailing-whitespace: 26,0: Trailing whitespace
+C0303:trailing-whitespace: 38,0: Trailing whitespace
+C0303:trailing-whitespace: 51,0: Trailing whitespace
+C0303:trailing-whitespace: 59,0: Trailing whitespace
+C0303:trailing-whitespace:100,0: Trailing whitespace
+C0304:missing-final-newline:125,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3841G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  6,0: Missing class docstring
+R0205:useless-object-inheritance:  6,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  8,4: Method name "palindromePath" doesn't conform to snake_case naming style
+R0914:too-many-locals:  8,4: Too many local variables (34/15)
+R1721:unnecessary-comprehension: 48,15: Unnecessary use of a comprehension, use list(range(n)) instead.
+R1714:consider-using-in: 63,19: Consider merging these comparisons with 'in' by using 'v not in (parent[u], heavy[u])'. Use a set instead if elements are hashable.
+R0912:too-many-branches:  8,4: Too many branches (15/12)
+R0915:too-many-statements:  8,4: Too many statements (64/50)
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 8.00/10
