@@ -1,0 +1,25 @@
+************* Module 3901DS3_V1
+C0303:trailing-whitespace: 13,0: Trailing whitespace
+C0303:trailing-whitespace: 20,0: Trailing whitespace
+C0303:trailing-whitespace: 35,0: Trailing whitespace
+C0303:trailing-whitespace: 44,0: Trailing whitespace
+C0303:trailing-whitespace: 50,0: Trailing whitespace
+C0303:trailing-whitespace: 59,0: Trailing whitespace
+C0303:trailing-whitespace: 62,0: Trailing whitespace
+C0303:trailing-whitespace: 73,0: Trailing whitespace
+C0303:trailing-whitespace: 81,0: Trailing whitespace
+C0303:trailing-whitespace:102,0: Trailing whitespace
+C0304:missing-final-newline:103,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3901DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  3,0: Missing class docstring
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  4,4: Method name "countGoodSubseq" doesn't conform to snake_case naming style
+R0914:too-many-locals:  4,4: Too many local variables (21/15)
+C0103:invalid-name: 90,16: Variable name "G" doesn't conform to snake_case naming style
+R0912:too-many-branches:  4,4: Too many branches (27/12)
+R0915:too-many-statements:  4,4: Too many statements (54/50)
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 6.87/10
