@@ -1,0 +1,18 @@
+************* Module 3966G4_V1
+C0303:trailing-whitespace: 12,0: Trailing whitespace
+C0303:trailing-whitespace: 14,66: Trailing whitespace
+C0303:trailing-whitespace: 21,0: Trailing whitespace
+C0303:trailing-whitespace: 27,0: Trailing whitespace
+C0303:trailing-whitespace: 31,0: Trailing whitespace
+C0301:line-too-long: 41,0: Line too long (109/100)
+C0303:trailing-whitespace: 44,0: Trailing whitespace
+C0304:missing-final-newline: 53,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3966G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  3,0: Missing class docstring
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  5,4: Method name "goodIntegers" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 3.00/10
