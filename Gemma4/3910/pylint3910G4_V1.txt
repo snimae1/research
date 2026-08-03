@@ -1,0 +1,19 @@
+************* Module 3910G4_V1
+C0303:trailing-whitespace: 17,0: Trailing whitespace
+C0303:trailing-whitespace: 18,75: Trailing whitespace
+C0303:trailing-whitespace: 23,0: Trailing whitespace
+C0303:trailing-whitespace: 29,0: Trailing whitespace
+C0303:trailing-whitespace: 35,0: Trailing whitespace
+C0303:trailing-whitespace: 41,0: Trailing whitespace
+C0303:trailing-whitespace: 47,0: Trailing whitespace
+C0303:trailing-whitespace: 56,0: Trailing whitespace
+C0304:missing-final-newline: 59,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3910G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  3,4: Method name "evenSumSubgraphs" doesn't conform to snake_case naming style
+C0116:missing-function-docstring: 38,4: Missing function or method docstring
+
+-----------------------------------
+Your code has been rated at 5.45/10
