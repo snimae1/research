@@ -1,0 +1,22 @@
+************* Module 3872G4_V1
+C0303:trailing-whitespace:  7,11: Trailing whitespace
+C0303:trailing-whitespace: 11,0: Trailing whitespace
+C0303:trailing-whitespace: 22,0: Trailing whitespace
+C0303:trailing-whitespace: 33,0: Trailing whitespace
+C0303:trailing-whitespace: 34,70: Trailing whitespace
+C0303:trailing-whitespace: 45,71: Trailing whitespace
+C0303:trailing-whitespace: 52,0: Trailing whitespace
+C0303:trailing-whitespace: 58,0: Trailing whitespace
+C0303:trailing-whitespace: 64,0: Trailing whitespace
+C0303:trailing-whitespace: 66,0: Trailing whitespace
+C0304:missing-final-newline: 68,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3872G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  3,4: Method name "longestArithmetic" doesn't conform to snake_case naming style
+R0912:too-many-branches:  3,4: Too many branches (18/12)
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 5.50/10
