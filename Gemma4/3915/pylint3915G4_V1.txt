@@ -1,0 +1,24 @@
+************* Module 3915G4_V1
+C0303:trailing-whitespace: 11,0: Trailing whitespace
+C0303:trailing-whitespace: 22,0: Trailing whitespace
+C0303:trailing-whitespace: 27,0: Trailing whitespace
+C0303:trailing-whitespace: 38,0: Trailing whitespace
+C0303:trailing-whitespace: 40,59: Trailing whitespace
+C0303:trailing-whitespace: 64,52: Trailing whitespace
+C0303:trailing-whitespace: 69,50: Trailing whitespace
+C0304:missing-final-newline: 77,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3915G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  3,4: Method name "maxAlternatingSum" doesn't conform to snake_case naming style
+R0914:too-many-locals:  3,4: Too many local variables (20/15)
+C0321:multiple-statements: 10,19: More than one statement on a single line
+C0103:invalid-name: 16,8: Variable name "U" doesn't conform to snake_case naming style
+C0115:missing-class-docstring: 19,8: Missing class docstring
+C0116:missing-function-docstring: 23,12: Missing function or method docstring
+C0116:missing-function-docstring: 28,12: Missing function or method docstring
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 5.00/10
