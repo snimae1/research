@@ -1,0 +1,29 @@
+************* Module 3854G4_V1
+C0303:trailing-whitespace: 20,0: Trailing whitespace
+C0303:trailing-whitespace: 22,0: Trailing whitespace
+C0303:trailing-whitespace: 29,0: Trailing whitespace
+C0303:trailing-whitespace: 33,0: Trailing whitespace
+C0303:trailing-whitespace: 46,0: Trailing whitespace
+C0304:missing-final-newline: 49,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3854G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "makeParityAlternating" doesn't conform to snake_case naming style
+C0321:multiple-statements:  8,19: More than one statement on a single line
+R0914:too-many-locals: 10,8: Too many local variables (17/15)
+C0321:multiple-statements: 16,38: More than one statement on a single line
+C0321:multiple-statements: 21,28: More than one statement on a single line
+C0321:multiple-statements: 26,31: More than one statement on a single line
+C0321:multiple-statements: 28,41: More than one statement on a single line
+C0321:multiple-statements: 31,22: More than one statement on a single line
+W3301:nested-min-max: 31,28: Do not use nested call of 'min'; it's possible to do 'min(lim, fixed)' instead
+C0103:invalid-name: 36,16: Variable name "M" doesn't conform to snake_case naming style
+C0321:multiple-statements: 37,28: More than one statement on a single line
+C0415:import-outside-toplevel: 38,16: Import outside toplevel (bisect)
+C0321:multiple-statements: 47,20: More than one statement on a single line
+C0321:multiple-statements: 48,20: More than one statement on a single line
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 4.57/10
