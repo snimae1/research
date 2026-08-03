@@ -1,0 +1,14 @@
+************* Module 3909G4_V1
+C0303:trailing-whitespace: 18,0: Trailing whitespace
+C0303:trailing-whitespace: 21,0: Trailing whitespace
+C0303:trailing-whitespace: 24,0: Trailing whitespace
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3909G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  3,4: Method name "compareBitonicSums" doesn't conform to snake_case naming style
+R1705:no-else-return: 29,8: Unnecessary "elif" after "return", remove the leading "el" from "elif"
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 2.86/10
