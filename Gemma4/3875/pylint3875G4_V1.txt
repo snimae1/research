@@ -1,0 +1,18 @@
+************* Module 3875G4_V1
+C0303:trailing-whitespace:  7,11: Trailing whitespace
+C0303:trailing-whitespace: 18,77: Trailing whitespace
+C0303:trailing-whitespace: 20,75: Trailing whitespace
+C0303:trailing-whitespace: 26,77: Trailing whitespace
+C0303:trailing-whitespace: 29,73: Trailing whitespace
+C0325:superfluous-parens: 31,0: Unnecessary parens after '=' keyword
+C0304:missing-final-newline: 39,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3875G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  3,4: Method name "uniformArray" doesn't conform to snake_case naming style
+W0612:unused-variable: 12,8: Unused variable 'num_evens'
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 0.00/10
