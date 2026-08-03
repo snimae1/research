@@ -1,4 +1,3 @@
-
 class Solution(object):
     def countVisiblePeople(self, n, pos, k):
         """
