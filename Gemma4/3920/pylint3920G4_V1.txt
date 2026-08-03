@@ -1,0 +1,18 @@
+************* Module 3920G4_V1
+C0303:trailing-whitespace: 15,0: Trailing whitespace
+C0303:trailing-whitespace: 18,0: Trailing whitespace
+C0303:trailing-whitespace: 19,65: Trailing whitespace
+C0303:trailing-whitespace: 22,0: Trailing whitespace
+C0303:trailing-whitespace: 24,51: Trailing whitespace
+C0303:trailing-whitespace: 29,0: Trailing whitespace
+C0304:missing-final-newline: 30,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3920G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  3,0: Missing class docstring
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  4,4: Method name "maxFixedPoints" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+W0611:unused-import:  1,0: Unused import bisect
+
+-----------------------------------
+Your code has been rated at 0.00/10
