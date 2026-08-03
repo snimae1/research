@@ -1,0 +1,22 @@
+************* Module 3881G4_V1
+C0303:trailing-whitespace: 10,0: Trailing whitespace
+C0303:trailing-whitespace: 14,0: Trailing whitespace
+C0303:trailing-whitespace: 17,0: Trailing whitespace
+C0303:trailing-whitespace: 25,0: Trailing whitespace
+C0303:trailing-whitespace: 32,0: Trailing whitespace
+C0303:trailing-whitespace: 33,70: Trailing whitespace
+C0303:trailing-whitespace: 39,0: Trailing whitespace
+C0304:missing-final-newline: 41,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3881G4_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "countVisiblePeople" doesn't conform to snake_case naming style
+C0103:invalid-name:  9,8: Variable name "MOD" doesn't conform to snake_case naming style
+C0103:invalid-name: 18,8: Function name "nCr_mod" doesn't conform to snake_case naming style
+R1714:consider-using-in: 21,15: Consider merging these comparisons with 'in' by using 'r in (0, n)'. Use a set instead if elements are hashable.
+W0613:unused-argument:  2,36: Unused argument 'pos'
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 1.00/10
