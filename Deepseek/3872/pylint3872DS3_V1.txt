@@ -1,0 +1,28 @@
+************* Module 3872DS3_V1
+C0303:trailing-whitespace: 10,0: Trailing whitespace
+C0303:trailing-whitespace: 14,0: Trailing whitespace
+C0303:trailing-whitespace: 24,0: Trailing whitespace
+C0303:trailing-whitespace: 26,0: Trailing whitespace
+C0303:trailing-whitespace: 30,0: Trailing whitespace
+C0303:trailing-whitespace: 36,0: Trailing whitespace
+C0303:trailing-whitespace: 46,0: Trailing whitespace
+C0303:trailing-whitespace: 51,0: Trailing whitespace
+C0303:trailing-whitespace: 61,0: Trailing whitespace
+C0303:trailing-whitespace: 71,0: Trailing whitespace
+C0304:missing-final-newline: 72,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3872DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "longestArithmetic" doesn't conform to snake_case naming style
+R0914:too-many-locals:  2,4: Too many local variables (22/15)
+C0103:invalid-name: 27,27: Variable name "L" doesn't conform to snake_case naming style
+C0103:invalid-name: 50,29: Variable name "L1" doesn't conform to snake_case naming style
+C0103:invalid-name: 57,20: Variable name "L2" doesn't conform to snake_case naming style
+C0103:invalid-name: 68,20: Variable name "L2" doesn't conform to snake_case naming style
+R0912:too-many-branches:  2,4: Too many branches (17/12)
+W0612:unused-variable: 50,12: Unused variable 'start1'
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 4.89/10
