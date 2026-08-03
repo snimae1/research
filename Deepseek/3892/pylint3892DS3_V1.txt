@@ -1,0 +1,23 @@
+************* Module 3892DS3_V1
+C0303:trailing-whitespace:  8,0: Trailing whitespace
+C0303:trailing-whitespace: 19,0: Trailing whitespace
+C0303:trailing-whitespace: 21,0: Trailing whitespace
+C0303:trailing-whitespace: 29,0: Trailing whitespace
+C0303:trailing-whitespace: 37,0: Trailing whitespace
+C0303:trailing-whitespace: 54,0: Trailing whitespace
+C0303:trailing-whitespace: 56,0: Trailing whitespace
+C0303:trailing-whitespace: 60,0: Trailing whitespace
+C0303:trailing-whitespace: 75,0: Trailing whitespace
+C0304:missing-final-newline: 77,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3892DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0116:missing-function-docstring:  2,4: Missing function or method docstring
+C0103:invalid-name:  2,4: Method name "minOperations" doesn't conform to snake_case naming style
+R0914:too-many-locals:  2,4: Too many local variables (17/15)
+C0103:invalid-name: 20,8: Variable name "INF" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 6.55/10
