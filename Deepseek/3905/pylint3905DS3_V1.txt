@@ -1,0 +1,20 @@
+************* Module 3905DS3_V1
+C0303:trailing-whitespace: 16,0: Trailing whitespace
+C0303:trailing-whitespace: 22,0: Trailing whitespace
+C0303:trailing-whitespace: 25,0: Trailing whitespace
+C0303:trailing-whitespace: 30,0: Trailing whitespace
+C0303:trailing-whitespace: 44,0: Trailing whitespace
+C0303:trailing-whitespace: 50,0: Trailing whitespace
+C0304:missing-final-newline: 51,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3905DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  4,0: Missing class docstring
+R0205:useless-object-inheritance:  4,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  5,4: Method name "colorGrid" doesn't conform to snake_case naming style
+R0914:too-many-locals:  5,4: Too many local variables (18/15)
+R1702:too-many-nested-blocks: 26,8: Too many nested blocks (6/5)
+R0903:too-few-public-methods:  4,0: Too few public methods (1/2)
+W0611:unused-import:  1,0: Unused List imported from typing
+
+-----------------------------------
+Your code has been rated at 4.67/10
