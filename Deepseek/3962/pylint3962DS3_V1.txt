@@ -1,0 +1,38 @@
+************* Module 3962DS3_V1
+C0303:trailing-whitespace: 16,0: Trailing whitespace
+C0303:trailing-whitespace: 23,0: Trailing whitespace
+C0303:trailing-whitespace: 29,0: Trailing whitespace
+C0303:trailing-whitespace: 36,0: Trailing whitespace
+C0303:trailing-whitespace: 43,0: Trailing whitespace
+C0303:trailing-whitespace: 50,0: Trailing whitespace
+C0303:trailing-whitespace: 64,0: Trailing whitespace
+C0303:trailing-whitespace: 74,0: Trailing whitespace
+C0303:trailing-whitespace: 76,0: Trailing whitespace
+C0303:trailing-whitespace: 79,0: Trailing whitespace
+C0303:trailing-whitespace: 86,0: Trailing whitespace
+C0303:trailing-whitespace: 95,0: Trailing whitespace
+C0303:trailing-whitespace:106,0: Trailing whitespace
+C0303:trailing-whitespace:112,0: Trailing whitespace
+C0303:trailing-whitespace:126,0: Trailing whitespace
+C0303:trailing-whitespace:143,0: Trailing whitespace
+C0303:trailing-whitespace:145,0: Trailing whitespace
+C0301:line-too-long:149,0: Line too long (118/100)
+C0303:trailing-whitespace:151,0: Trailing whitespace
+C0303:trailing-whitespace:155,0: Trailing whitespace
+C0304:missing-final-newline:156,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3962DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "maxSum" doesn't conform to snake_case naming style
+R0914:too-many-locals:  2,4: Too many local variables (53/15)
+C0103:invalid-name: 26,8: Variable name "M" doesn't conform to snake_case naming style
+W0613:unused-argument: 66,47: Unused argument 'total_cnt'
+R1731:consider-using-max-builtin:109,20: Consider using 'max_ans = max(max_ans, total_in_s)' instead of unnecessary if block
+R1731:consider-using-max-builtin:153,16: Consider using 'max_ans = max(max_ans, cur)' instead of unnecessary if block
+R0912:too-many-branches:  2,4: Too many branches (18/12)
+R0915:too-many-statements:  2,4: Too many statements (93/50)
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 7.02/10
