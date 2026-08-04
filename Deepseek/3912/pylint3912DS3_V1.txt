@@ -1,0 +1,12 @@
+************* Module 3912DS3_V1
+C0304:missing-final-newline: 36,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3912DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "findValidElements" doesn't conform to snake_case naming style
+R1714:consider-using-in: 30,15: Consider merging these comparisons with 'in' by using 'i in (0, n - 1)'. Use a set instead if elements are hashable.
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 6.67/10
