@@ -1,0 +1,14 @@
+************* Module 3835GPT5_V1
+C0304:missing-final-newline: 34,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3835GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  3,0: Missing class docstring
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  4,4: Method name "countSubarrays" doesn't conform to snake_case naming style
+C0103:invalid-name: 10,8: Variable name "maxDeque" doesn't conform to snake_case naming style
+C0103:invalid-name: 11,8: Variable name "minDeque" doesn't conform to snake_case naming style
+C0200:consider-using-enumerate: 16,8: Consider using enumerate instead of iterating with range and len
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 5.45/10
