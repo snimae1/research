@@ -9,4 +9,3 @@ class Solution(object):
         
         # i ist die minimale Prefix-Länge, die entfernt werden muss
         return i
- 
