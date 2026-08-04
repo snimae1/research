@@ -1,1 +1,78 @@
+************* Module 3830GPT5_V1
+C0303:trailing-whitespace:  1,23: Trailing whitespace
+C0303:trailing-whitespace:  3,39: Trailing whitespace
+C0303:trailing-whitespace: 11,11: Trailing whitespace
+C0303:trailing-whitespace: 13,21: Trailing whitespace
+C0303:trailing-whitespace: 15,0: Trailing whitespace
+C0303:trailing-whitespace: 17,23: Trailing whitespace
+C0303:trailing-whitespace: 19,21: Trailing whitespace
+C0303:trailing-whitespace: 21,24: Trailing whitespace
+C0303:trailing-whitespace: 23,23: Trailing whitespace
+C0303:trailing-whitespace: 25,25: Trailing whitespace
+C0303:trailing-whitespace: 27,17: Trailing whitespace
+C0303:trailing-whitespace: 29,24: Trailing whitespace
+C0303:trailing-whitespace: 31,0: Trailing whitespace
+C0303:trailing-whitespace: 33,22: Trailing whitespace
+C0303:trailing-whitespace: 35,29: Trailing whitespace
+C0303:trailing-whitespace: 37,47: Trailing whitespace
+C0303:trailing-whitespace: 39,129: Trailing whitespace
+C0301:line-too-long: 39,0: Line too long (129/100)
+C0303:trailing-whitespace: 41,31: Trailing whitespace
+C0303:trailing-whitespace: 43,21: Trailing whitespace
+C0303:trailing-whitespace: 45,45: Trailing whitespace
+C0303:trailing-whitespace: 47,0: Trailing whitespace
+C0303:trailing-whitespace: 49,23: Trailing whitespace
+C0303:trailing-whitespace: 51,38: Trailing whitespace
+C0303:trailing-whitespace: 53,47: Trailing whitespace
+C0303:trailing-whitespace: 55,133: Trailing whitespace
+C0301:line-too-long: 55,0: Line too long (133/100)
+C0303:trailing-whitespace: 57,32: Trailing whitespace
+C0303:trailing-whitespace: 59,21: Trailing whitespace
+C0303:trailing-whitespace: 61,47: Trailing whitespace
+C0303:trailing-whitespace: 63,0: Trailing whitespace
+C0303:trailing-whitespace: 65,23: Trailing whitespace
+C0303:trailing-whitespace: 67,0: Trailing whitespace
+C0303:trailing-whitespace: 69,26: Trailing whitespace
+C0303:trailing-whitespace: 71,22: Trailing whitespace
+C0303:trailing-whitespace: 73,40: Trailing whitespace
+C0303:trailing-whitespace: 75,28: Trailing whitespace
+C0303:trailing-whitespace: 77,43: Trailing whitespace
+C0303:trailing-whitespace: 79,17: Trailing whitespace
+C0303:trailing-whitespace: 81,51: Trailing whitespace
+C0303:trailing-whitespace: 83,27: Trailing whitespace
+C0303:trailing-whitespace: 85,28: Trailing whitespace
+C0303:trailing-whitespace: 87,0: Trailing whitespace
+C0303:trailing-whitespace: 89,26: Trailing whitespace
+C0303:trailing-whitespace: 91,55: Trailing whitespace
+C0303:trailing-whitespace: 93,44: Trailing whitespace
+C0303:trailing-whitespace: 95,46: Trailing whitespace
+C0303:trailing-whitespace: 97,25: Trailing whitespace
+C0303:trailing-whitespace: 99,36: Trailing whitespace
+C0303:trailing-whitespace:101,21: Trailing whitespace
+C0303:trailing-whitespace:103,32: Trailing whitespace
+C0303:trailing-whitespace:105,0: Trailing whitespace
+C0303:trailing-whitespace:107,30: Trailing whitespace
+C0303:trailing-whitespace:109,55: Trailing whitespace
+C0303:trailing-whitespace:111,44: Trailing whitespace
+C0303:trailing-whitespace:113,48: Trailing whitespace
+C0303:trailing-whitespace:115,25: Trailing whitespace
+C0303:trailing-whitespace:117,37: Trailing whitespace
+C0303:trailing-whitespace:119,21: Trailing whitespace
+C0303:trailing-whitespace:121,33: Trailing whitespace
+C0303:trailing-whitespace:123,0: Trailing whitespace
+C0303:trailing-whitespace:125,56: Trailing whitespace
+C0303:trailing-whitespace:127,0: Trailing whitespace
+C0304:missing-final-newline:129,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3830GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  3,4: Method name "longestAlternating" doesn't conform to snake_case naming style
+R1705:no-else-return: 19,12: Unnecessary "elif" after "return", remove the leading "el" from "elif"
+R1714:consider-using-in: 93,23: Consider merging these comparisons with 'in' by using 's0 not in (0, s1)'. Use a set instead if elements are hashable.
+R1714:consider-using-in:111,23: Consider merging these comparisons with 'in' by using 's2 not in (0, s1)'. Use a set instead if elements are hashable.
+R0912:too-many-branches:  3,4: Too many branches (21/12)
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
 
+-----------------------------------
+Your code has been rated at 0.00/10
