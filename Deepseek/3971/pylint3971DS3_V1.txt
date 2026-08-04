@@ -1,0 +1,24 @@
+************* Module 3971DS3_V1
+C0303:trailing-whitespace: 11,0: Trailing whitespace
+C0303:trailing-whitespace: 21,0: Trailing whitespace
+C0303:trailing-whitespace: 25,0: Trailing whitespace
+C0303:trailing-whitespace: 43,0: Trailing whitespace
+C0303:trailing-whitespace: 46,0: Trailing whitespace
+C0303:trailing-whitespace: 55,0: Trailing whitespace
+C0303:trailing-whitespace: 59,0: Trailing whitespace
+C0304:missing-final-newline: 60,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3971DS3_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "maxTotalValue" doesn't conform to snake_case naming style
+R0914:too-many-locals:  2,4: Too many local variables (22/15)
+C0103:invalid-name:  9,8: Variable name "MOD" doesn't conform to snake_case naming style
+C0103:invalid-name: 29,8: Variable name "ans_X" doesn't conform to snake_case naming style
+C0103:invalid-name: 39,16: Variable name "ans_X" doesn't conform to snake_case naming style
+C0103:invalid-name: 44,8: Variable name "X" doesn't conform to snake_case naming style
+W0612:unused-variable: 10,8: Unused variable 'n'
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 4.74/10
