@@ -1,0 +1,18 @@
+************* Module 3862GPT5_V1
+C0304:missing-final-newline: 22,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3862GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "smallestBalancedIndex" doesn't conform to snake_case naming style
+C0103:invalid-name:  7,8: Variable name "totalProduct" doesn't conform to snake_case naming style
+C0103:invalid-name:  9,12: Variable name "totalProduct" doesn't conform to snake_case naming style
+C0103:invalid-name: 11,8: Variable name "leftSum" doesn't conform to snake_case naming style
+C0103:invalid-name: 12,8: Variable name "rightProduct" doesn't conform to snake_case naming style
+C0200:consider-using-enumerate: 14,8: Consider using enumerate instead of iterating with range and len
+C0103:invalid-name: 15,12: Variable name "rightProduct" doesn't conform to snake_case naming style
+C0103:invalid-name: 20,12: Variable name "leftSum" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 0.00/10
