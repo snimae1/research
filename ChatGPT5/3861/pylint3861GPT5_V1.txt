@@ -1,0 +1,13 @@
+************* Module 3861GPT5_V1
+C0304:missing-final-newline: 16,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3861GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "minimumIndex" doesn't conform to snake_case naming style
+C0103:invalid-name:  2,37: Argument name "itemSize" doesn't conform to snake_case naming style
+C0200:consider-using-enumerate: 11,8: Consider using enumerate instead of iterating with range and len
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 0.00/10
