@@ -1,0 +1,14 @@
+************* Module 3855GPT5_V1
+C0304:missing-final-newline: 47,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3855GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "sumOfNumbers" doesn't conform to snake_case naming style
+C0103:invalid-name:  9,8: Variable name "MOD" doesn't conform to snake_case naming style
+C0103:invalid-name: 33,31: Argument name "MOD" doesn't conform to snake_case naming style
+R1705:no-else-return: 43,8: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 5.83/10
