@@ -1,0 +1,20 @@
+************* Module 3901GPT5_V1
+C0304:missing-final-newline:100,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3901GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  3,0: Missing class docstring
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  4,4: Method name "countGoodSubseq" doesn't conform to snake_case naming style
+R0914:too-many-locals:  4,4: Too many local variables (21/15)
+C0103:invalid-name: 18,8: Variable name "INF" doesn't conform to snake_case naming style
+C0103:invalid-name: 21,8: Variable name "divCnt" doesn't conform to snake_case naming style
+C0103:invalid-name: 28,16: Variable name "divCnt" doesn't conform to snake_case naming style
+C0103:invalid-name: 52,16: Variable name "divCnt" doesn't conform to snake_case naming style
+C0103:invalid-name: 55,16: Variable name "divCnt" doesn't conform to snake_case naming style
+C0103:invalid-name: 67,12: Variable name "totalG" doesn't conform to snake_case naming style
+R0912:too-many-branches:  4,4: Too many branches (19/12)
+W0612:unused-variable: 18,8: Unused variable 'INF'
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 7.38/10
