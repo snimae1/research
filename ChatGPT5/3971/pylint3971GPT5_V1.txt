@@ -1,0 +1,15 @@
+************* Module 3971GPT5_V1
+C0304:missing-final-newline: 48,0: Final newline missing
+C0114:missing-module-docstring:  1,0: Missing module docstring
+C0103:invalid-name:  1,0: Module name "3971GPT5_V1" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  1,0: Missing class docstring
+R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  2,4: Method name "maxTotalValue" doesn't conform to snake_case naming style
+C0103:invalid-name:  9,8: Variable name "MOD" doesn't conform to snake_case naming style
+C0103:invalid-name: 42,8: Variable name "T" doesn't conform to snake_case naming style
+W0612:unused-variable: 10,8: Unused variable 'n'
+W0612:unused-variable: 43,20: Unused variable 'equal'
+R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 6.21/10
