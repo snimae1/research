@@ -1,12 +1,19 @@
 ************* Module 3873G4_V1
-C0304:missing-final-newline: 60,0: Final newline missing
+C0303:trailing-whitespace: 22,56: Trailing whitespace
+C0303:trailing-whitespace: 28,0: Trailing whitespace
+C0303:trailing-whitespace: 31,0: Trailing whitespace
+C0303:trailing-whitespace: 48,0: Trailing whitespace
+C0303:trailing-whitespace: 53,0: Trailing whitespace
+C0304:missing-final-newline: 56,0: Final newline missing
 C0114:missing-module-docstring:  1,0: Missing module docstring
 C0103:invalid-name:  1,0: Module name "3873G4_V1" doesn't conform to snake_case naming style
 C0115:missing-class-docstring:  1,0: Missing class docstring
 R0205:useless-object-inheritance:  1,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
 C0103:invalid-name:  2,4: Method name "maxActivated" doesn't conform to snake_case naming style
-R0914:too-many-locals:  2,4: Too many local variables (21/15)
+C0321:multiple-statements: 29,37: More than one statement on a single line
+C0321:multiple-statements: 30,37: More than one statement on a single line
+R1705:no-else-return: 46,8: Unnecessary "elif" after "return", remove the leading "el" from "elif"
 R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
 
------------------------------------
-Your code has been rated at 7.89/10
+------------------------------------------------------------------
+Your code has been rated at 5.16/10
