@@ -4,57 +4,53 @@ class Solution(object):
         :type points: List[List[int]]
         :rtype: int
         """
-        # collect distinct x and y coordinates
-        xs = set()
-        ys = set()
-        for x, y in points:
-            xs.add(x)
-            ys.add(y)
-
-        # map x and y to unique node indices
-        x_list = list(xs)
-        y_list = list(ys)
-        x_to_idx = {x: i for i, x in enumerate(x_list)}
-        # y indices start after x indices to keep them separate
-        offset = len(x_list)
-        y_to_idx = {y: i + offset for i, y in enumerate(y_list)}
-
-        n_nodes = len(x_list) + len(y_list)
-        parent = list(range(n_nodes))
+        # Disjoint Set Union (DSU) Struktur zur Verwaltung der Komponenten
+        parent = {}
 
         def find(i):
-            # path compression
-            while parent[i] != i:
-                parent[i] = parent[parent[i]]
-                i = parent[i]
-            return i
+            if parent[i] == i:
+                return i
+            parent[i] = find(parent[i])
+            return parent[i]
 
         def union(i, j):
-            ri, rj = find(i), find(j)
-            if ri != rj:
-                parent[ri] = rj
+            root_i = find(i)
+            root_j = find(j)
+            if root_i != root_j:
+                parent[root_i] = root_j
 
-        # build graph components by unioning x and y of each point
+        # Wir müssen X- und Y-Koordinaten unterscheiden. 
+        # Da Koordinaten identisch sein können (z.B. x=1 und y=1),
+        # markieren wir X-Koordinaten mit einem Präfix oder Tuple.
         for x, y in points:
-            u = x_to_idx[x]
-            v = y_to_idx[y]
-            union(u, v)
+            x_node = ('x', x)
+            y_node = ('y', y)
+            
+            if x_node not in parent: parent[x_node] = x_node
+            if y_node not in parent: parent[y_node] = y_node
+            
+            union(x_node, y_node)
 
-        # compress all paths
-        for i in range(n_nodes):
-            parent[i] = find(i)
-
-        # count edges (points) per component
-        comp_size = [0] * n_nodes
+        # Zähle, wie viele ursprüngliche Punkte zu jeder Komponente gehören
+        component_sizes = {}
         for x, y in points:
-            root = parent[x_to_idx[x]]
-            comp_size[root] += 1
+            # Jedes Punkt-Paar gehört zur Komponente seines Repräsentanten (root)
+            root = find(('x', x))
+            component_sizes[root] = component_sizes.get(root, 0) + 1
 
-        sizes = [s for s in comp_size if s > 0]
-        # if only one component, we can always add one point to activate all
-        if len(sizes) == 1:
-            return len(points) + 1
+        # Extrahiere die Größen aller gefundenen Komponenten
+        sizes = sorted(component_sizes.values(), reverse=True)
 
-        # otherwise we can connect the two largest components
-        sizes.sort(reverse=True)
-        return sizes[0] + sizes[1] + 1
+        # Fall 1: Es gibt zwei oder mehr Komponenten.
+        # Wir verbinden die zwei größten Komponenten mit einem neuen Punkt.
+        if len(sizes) >= 2:
+            return sizes[0] + sizes[1] + 1
+        
+        # Fall 2: Es gibt nur eine Komponente.
+        # Wir fügen einen Punkt hinzu, der an diese eine Komponente anschließt.
+        elif len(sizes) == 1:
+            return sizes[0] + 1
+        
+        # Fall 3: Keine Punkte vorhanden (laut Constraints nicht möglich, aber zur Sicherheit)
+        else:
+            return 1
