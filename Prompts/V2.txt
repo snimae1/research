@@ -1,0 +1,7 @@
+Der erstellte Code wurde auf verschiedene Merkmale überprüft, passe ihn bitte dementsprechend an, um bessere Ergebnisse zu erzielen.
+Der Code wurde durch Pylint überprüft und es wurde folgende Informationen zurückgegeben:
+"Rückmeldung von Pylint"
+In einer Lesbarkeitsstudie wurde auf verständliche und angemessene Kommentare, Intuitive Verständlichkeit des Codes, der Methoden und Attribute von menschlichen Informatikern überprüft.
+wurde dir von 5 möglichen Punkten X Punkte gegeben
+
+(Optional) Der Programmcode hat Testfall Y nicht erfüllt und sollte daher angepasst werden.
