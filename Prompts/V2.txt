@@ -2,6 +2,6 @@ Der erstellte Code wurde auf verschiedene Merkmale überprüft, passe ihn bitte 
 Der Code wurde durch Pylint überprüft und es wurde folgende Informationen zurückgegeben:
 "Rückmeldung von Pylint"
 In einer Lesbarkeitsstudie wurde auf verständliche und angemessene Kommentare, Intuitive Verständlichkeit des Codes, der Methoden und Attribute von menschlichen Informatikern überprüft.
-Deinem Programmcode wurde X von 5 möglichen Punkten Punkte gegeben.
+Deinem Programmcode wurde X von 5 möglichen Punkten gegeben.
 
 (Optional) Der Programmcode hat Testfall Y nicht erfüllt und sollte daher angepasst werden.
