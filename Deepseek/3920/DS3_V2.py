@@ -1,61 +1,62 @@
 """
-Dieses Modul bietet eine Lösung zur Berechnung der maximalen Anzahl
-an Fixed Points in einem Array nach beliebigen Löschungen.
+Solution for the "Maximum Fixed Points" problem.
 """
-import bisect
-
-
-class Solution(object):
-    """
-    Klasse zur Berechnung der maximalen Fixed Points.
-    Ein Fixed Point ist definiert als ein Element, dessen Wert seinem Index entspricht.
-    """
-
+class Solution:
     def maxFixedPoints(self, nums):
         """
-        Berechnet die maximale Anzahl an Fixed Points, die durch Löschen 
-        von Elementen erreicht werden können.
+        Given an array nums, return the maximum number of fixed points
+        achievable after deleting any number of elements.
 
         :type nums: List[int]
         :rtype: int
         """
-        # Ein Element an Index i mit Wert v kann ein Fixed Point werden,
-        # wenn v <= i. Die Anzahl der zu löschenden Elemente links davon ist d = i - v.
-        # Damit mehrere Elemente Fixed Points werden, muss die Anzahl der
-        # Löschungen (d) nicht-abnehmend sein und die Werte (v) strikt steigend.
-        
-        candidates = []
-        for i, v in enumerate(nums):
-            if i >= v:
-                # Wir speichern die Differenz d und den Wert v.
-                candidates.append((i - v, v))
+        n = len(nums)
+        # groups[value] stores all differences (i - value) for elements that
+        # could become fixed points if we delete (i - value) elements before them.
+        groups = [[] for _ in range(n)]
+        for i, val in enumerate(nums):
+            if val <= i:
+                # Only if val <= i, it's possible to delete enough elements
+                # from the left to make nums[i] == i after shifting.
+                groups[val].append(i - val)
 
-        if not candidates:
-            return 0
+        # Fenwick tree (Binary Indexed Tree) for prefix maximum queries.
+        # We need to find the maximum length of a chain of selected elements
+        # with strictly increasing values and non-decreasing differences.
+        bit_size = n + 2
+        bit = [0] * bit_size
 
-        # Um die LIS (Longest Increasing Subsequence) in 2D zu finden:
-        # 1. Sortiere primär nach der Differenz d (aufsteigend).
-        # 2. Sortiere sekundär nach dem Wert v (aufsteigend).
-        # Da d nicht-abnehmend sein darf, erlaubt die Sortierung uns, 
-        # nur noch eine LIS auf den Werten v zu berechnen.
-        candidates.sort()
+        def bit_update(index, value):
+            """Update BIT at index with given value (take max)."""
+            while index < bit_size:
+                if value > bit[index]:
+                    bit[index] = value
+                index += index & -index
 
-        # LIS auf den Werten v mit O(N log N) Zeitkomplexität
-        tails = []
-        for _, v in candidates:
-            # Wir suchen die Position, an der v in die tails-Liste passt.
-            # Da v strikt steigen muss, nutzen wir bisect_left.
-            idx = bisect.bisect_left(tails, v)
-            if idx < len(tails):
-                tails[idx] = v
-            else:
-                tails.append(v)
+        def bit_query(index):
+            """Query prefix maximum up to index."""
+            result = 0
+            while index > 0:
+                if bit[index] > result:
+                    result = bit[index]
+                index -= index & -index
+            return result
 
-        return len(tails)
+        answer = 0
+        # Process values in increasing order (since selected values must be strictly increasing)
+        for value in range(n):
+            if not groups[value]:
+                continue
+            # Compute DP for all differences of this value using current BIT state
+            # (which contains only results from smaller values).
+            updates = []
+            for diff in groups[value]:
+                # diff is in range [0, n-1]; BIT is 1-indexed, so query diff+1
+                best_prev = bit_query(diff + 1)
+                updates.append((diff, best_prev + 1))
+            # Update BIT with new DP values from this value group
+            for diff, new_val in updates:
+                bit_update(diff + 1, new_val)
+                answer = max(answer, new_val)
 
-
-# Pylint-Anмечаungen: 
-# Die Methodennamen folgen der Vorgabe des Users (CamelCase), 
-# nicht dem PEP8 (snake_case). 
-# Die Vererbung von 'object' ist in Python 3 redundant, wurde aber beibehalten,
-# da sie Teil der geforderten Syntax ist.
+        return answer
