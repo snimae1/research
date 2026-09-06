@@ -1,1 +1,9 @@
+************* Module 3834DS3_V2
+C0304:missing-final-newline: 27,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3834DS3_V2" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  5,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name: 10,4: Method name "mergeAdjacent" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  5,0: Too few public methods (1/2)
 
+------------------------------------------------------------------
+Your code has been rated at 3.75/10 (previous run: 8.75/10, -5.00)
