@@ -2,3 +2,5 @@ IndentationError: expected an indented block
                                                           ^
     """Provide solutions for the prefix removal problem."""
 Line 4  (Solution.py)
+
+#Ich habe den Fehler manuell behoben um weiter testen zu können, fehlerfreier Code ist in "GPT5_V2_1.py"
