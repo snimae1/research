@@ -1,0 +1,15 @@
+************* Module 3841DS3_V2
+C0304:missing-final-newline:187,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3841DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 13,4: Method name "palindromePath" doesn't conform to snake_case naming style
+R0914:too-many-locals: 13,4: Too many local variables (21/15)
+W0612:unused-variable: 28,8: Unused variable 'adj'
+R0914:too-many-locals: 52,4: Too many local variables (24/15)
+R0913:too-many-arguments:141,4: Too many arguments (6/5)
+R0917:too-many-positional-arguments:141,4: Too many positional arguments (6/5)
+R0913:too-many-arguments:177,4: Too many arguments (7/5)
+R0917:too-many-positional-arguments:177,4: Too many positional arguments (7/5)
+R0903:too-few-public-methods:  8,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 9.00/10
