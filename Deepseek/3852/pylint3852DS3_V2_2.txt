@@ -1,0 +1,8 @@
+************* Module 3852DS3_V2
+C0304:missing-final-newline: 33,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3852DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 15,4: Method name "minDistinctFreqPair" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  8,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 6.36/10 (previous run: 8.18/10, -1.82)
