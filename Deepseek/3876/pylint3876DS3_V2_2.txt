@@ -1,0 +1,9 @@
+************* Module 3876DS3_V2
+C0303:trailing-whitespace:  5,0: Trailing whitespace
+C0304:missing-final-newline: 18,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3876DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name:  6,4: Method name "uniformArray" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 6.00/10, -6.00)
