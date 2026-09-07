@@ -1,0 +1,10 @@
+************* Module 3920DS3_V2
+C0304:missing-final-newline: 62,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3920DS3_V2" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  4,0: Missing class docstring
+C0103:invalid-name:  5,4: Method name "maxFixedPoints" doesn't conform to snake_case naming style
+R0914:too-many-locals:  5,4: Too many local variables (16/15)
+R0903:too-few-public-methods:  4,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 8.18/10
