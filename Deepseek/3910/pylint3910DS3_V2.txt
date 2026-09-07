@@ -1,0 +1,9 @@
+************* Module 3910DS3_V2
+C0304:missing-final-newline: 58,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3910DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name:  9,4: Method name "evenSumSubgraphs" doesn't conform to snake_case naming style
+R0914:too-many-locals:  9,4: Too many local variables (16/15)
+R0903:too-few-public-methods:  5,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 8.33/10
