@@ -1,0 +1,9 @@
+************* Module 3872DS3_V2
+C0304:missing-final-newline:109,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3872DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name:  8,4: Method name "longestArithmetic" doesn't conform to snake_case naming style
+W0613:unused-argument: 70,44: Unused argument 'n'
+R0903:too-few-public-methods:  5,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 9.22/10 (previous run: 9.38/10, -0.16)
