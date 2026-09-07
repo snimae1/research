@@ -1,0 +1,10 @@
+************* Module 3863DS3_V2
+C0304:missing-final-newline: 52,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3863DS3_V2" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  6,4: Method name "minOperations" doesn't conform to snake_case naming style
+R0911:too-many-return-statements:  6,4: Too many return statements (7/6)
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 7.00/10 (previous run: 8.50/10, -1.50)
