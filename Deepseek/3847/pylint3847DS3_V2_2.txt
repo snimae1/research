@@ -1,0 +1,8 @@
+************* Module 3847DS3_V2
+C0304:missing-final-newline: 39,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3847DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 11,4: Method name "scoreDifference" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  5,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 7.14/10 (previous run: 7.86/10, -0.71)
