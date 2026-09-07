@@ -1,0 +1,6 @@
+************* Module 3876DS3_V2
+C0303:trailing-whitespace:  6,0: Trailing whitespace
+C0304:missing-final-newline: 19,0: Final newline missing
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10
