@@ -1,0 +1,7 @@
+************* Module 3892DS3_V2
+C0304:missing-final-newline: 96,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3892DS3_V2" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  6,0: Missing class docstring
+
+-----------------------------------
+Your code has been rated at 9.38/10
