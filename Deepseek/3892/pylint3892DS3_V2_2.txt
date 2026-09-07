@@ -1,0 +1,10 @@
+************* Module 3892DS3_V2
+C0304:missing-final-newline: 95,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3892DS3_V2" doesn't conform to snake_case naming style
+C0115:missing-class-docstring:  6,0: Missing class docstring
+R0205:useless-object-inheritance:  6,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  7,4: Method name "minOperations" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 8.75/10 (previous run: 9.38/10, -0.62)
