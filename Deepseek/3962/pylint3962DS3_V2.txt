@@ -1,0 +1,11 @@
+************* Module 3962DS3_V2
+C0304:missing-final-newline:175,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3962DS3_V2" doesn't conform to snake_case naming style
+R0914:too-many-locals: 75,4: Too many local variables (20/15)
+C0103:invalid-name:119,4: Method name "maxSum" doesn't conform to snake_case naming style
+R0914:too-many-locals:119,4: Too many local variables (22/15)
+W0612:unused-variable:142,8: Unused variable 'total_all_sum'
+R0903:too-few-public-methods: 64,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 9.38/10
