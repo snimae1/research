@@ -1,0 +1,9 @@
+************* Module 3848DS3_V2
+C0303:trailing-whitespace: 14,41: Trailing whitespace
+C0304:missing-final-newline: 38,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3848DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 14,4: Method name "isDigitorialPermutation" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  7,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 2.86/10 (previous run: 7.14/10, -4.29)
