@@ -1,0 +1,8 @@
+************* Module 3890DS3_V2
+C0304:missing-final-newline: 34,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3890DS3_V2" doesn't conform to snake_case naming style
+C0103:invalid-name:  6,4: Method name "findGoodIntegers" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 7.78/10 (previous run: 8.89/10, -1.11)
