@@ -1,0 +1,9 @@
+************* Module 3908DS3_V2
+C0304:missing-final-newline: 23,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3908DS3_V2" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  3,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name:  6,4: Method name "validDigit" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 2.86/10
