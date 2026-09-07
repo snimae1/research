@@ -1,0 +1,7 @@
+************* Module 3896DS3_V2
+C0301:line-too-long: 58,0: Line too long (101/100)
+C0304:missing-final-newline: 59,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3896DS3_V2" doesn't conform to snake_case naming style
+
+-----------------------------------
+Your code has been rated at 8.80/10
