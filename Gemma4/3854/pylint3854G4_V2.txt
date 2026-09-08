@@ -1,0 +1,27 @@
+************* Module 3854G4_V2
+C0303:trailing-whitespace: 29,47: Trailing whitespace
+C0303:trailing-whitespace: 30,35: Trailing whitespace
+C0303:trailing-whitespace: 40,0: Trailing whitespace
+C0303:trailing-whitespace: 50,0: Trailing whitespace
+C0303:trailing-whitespace: 55,0: Trailing whitespace
+C0303:trailing-whitespace: 82,0: Trailing whitespace
+C0303:trailing-whitespace: 87,0: Trailing whitespace
+C0303:trailing-whitespace: 91,0: Trailing whitespace
+C0303:trailing-whitespace: 98,0: Trailing whitespace
+C0303:trailing-whitespace:101,0: Trailing whitespace
+C0303:trailing-whitespace:105,0: Trailing whitespace
+C0303:trailing-whitespace:109,0: Trailing whitespace
+C0303:trailing-whitespace:113,0: Trailing whitespace
+C0303:trailing-whitespace:119,0: Trailing whitespace
+C0303:trailing-whitespace:124,0: Trailing whitespace
+C0304:missing-final-newline:125,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3854G4_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 17,4: Method name "makeParityAlternating" doesn't conform to snake_case naming style
+R0914:too-many-locals: 75,4: Too many local variables (16/15)
+W3301:nested-min-max: 97,20: Do not use nested call of 'min'; it's possible to do 'min(limit, fixed)' instead
+R1730:consider-using-min-builtin:122,12: Consider using 'min_range = min(min_range, actual_range)' instead of unnecessary if block
+R0903:too-few-public-methods: 11,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 6.00/10
+
