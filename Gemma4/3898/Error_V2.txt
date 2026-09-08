@@ -1,0 +1,2 @@
+Gemma changed the functions name to "find_degrees" which isnt the syntax from the Leetcode testing program.
+After changing it manually to "findDegrees" as defined by my first prompt it succesfully tested.
