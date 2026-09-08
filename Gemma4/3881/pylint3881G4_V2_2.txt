@@ -1,0 +1,14 @@
+************* Module 3881G4_V2
+C0303:trailing-whitespace: 26,0: Trailing whitespace
+C0303:trailing-whitespace: 28,0: Trailing whitespace
+C0303:trailing-whitespace: 32,0: Trailing whitespace
+C0303:trailing-whitespace: 43,0: Trailing whitespace
+C0303:trailing-whitespace: 49,0: Trailing whitespace
+C0303:trailing-whitespace: 58,0: Trailing whitespace
+C0304:missing-final-newline: 59,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3881G4_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 12,4: Method name "countVisiblePeople" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  7,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 5.24/10 (previous run: 5.71/10, -0.48)
