@@ -1,0 +1,19 @@
+************* Module 3872G4_V2
+C0303:trailing-whitespace: 63,0: Trailing whitespace
+C0303:trailing-whitespace: 66,0: Trailing whitespace
+C0303:trailing-whitespace: 68,0: Trailing whitespace
+C0303:trailing-whitespace: 71,0: Trailing whitespace
+C0303:trailing-whitespace: 74,0: Trailing whitespace
+C0303:trailing-whitespace: 77,64: Trailing whitespace
+C0303:trailing-whitespace: 78,70: Trailing whitespace
+C0303:trailing-whitespace: 80,68: Trailing whitespace
+C0303:trailing-whitespace: 83,0: Trailing whitespace
+C0303:trailing-whitespace: 87,0: Trailing whitespace
+C0304:missing-final-newline: 88,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3872G4_V2" doesn't conform to snake_case naming style
+W0612:unused-variable: 70,8: Unused variable 'left_len'
+W0612:unused-variable: 73,8: Unused variable 'right_len'
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 5.95/10
