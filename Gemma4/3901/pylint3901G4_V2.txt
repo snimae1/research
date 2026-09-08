@@ -1,0 +1,14 @@
+************* Module 3901G4_V2
+C0303:trailing-whitespace: 94,69: Trailing whitespace
+C0304:missing-final-newline:113,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3901G4_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 15,4: Method name "countGoodSubseq" doesn't conform to snake_case naming style
+W0201:attribute-defined-outside-init: 25,8: Attribute 'p' defined outside __init__
+W0201:attribute-defined-outside-init: 26,8: Attribute 'n' defined outside __init__
+W0201:attribute-defined-outside-init: 27,8: Attribute 'nums' defined outside __init__
+W0201:attribute-defined-outside-init: 30,8: Attribute 'tree_size' defined outside __init__
+W0201:attribute-defined-outside-init: 33,8: Attribute 'tree' defined outside __init__
+R0903:too-few-public-methods:  9,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 8.46/10
