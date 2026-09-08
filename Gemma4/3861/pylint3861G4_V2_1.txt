@@ -1,0 +1,6 @@
+************* Module 3861G4_V2
+C0304:missing-final-newline: 36,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3861G4_V2" doesn't conform to snake_case naming style
+
+-----------------------------------
+Your code has been rated at 8.00/10
