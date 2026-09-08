@@ -1,0 +1,14 @@
+************* Module 3920G4_V2
+C0303:trailing-whitespace: 26,0: Trailing whitespace
+C0303:trailing-whitespace: 39,69: Trailing whitespace
+C0303:trailing-whitespace: 57,21: Trailing whitespace
+C0303:trailing-whitespace: 58,61: Trailing whitespace
+C0303:trailing-whitespace: 59,30: Trailing whitespace
+C0304:missing-final-newline: 61,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3920G4_V2" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  8,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name: 14,4: Method name "maxFixedPoints" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  8,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 4.12/10
