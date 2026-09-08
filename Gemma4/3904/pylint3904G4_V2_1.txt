@@ -1,0 +1,7 @@
+************* Module 3904G4_V2
+C0304:missing-final-newline: 48,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3904G4_V2" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 8.24/10
