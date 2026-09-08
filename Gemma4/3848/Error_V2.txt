@@ -1,0 +1,2 @@
+Gemma changed the functions name to "is_digitorial_permutation" which isnt the syntax from the Leetcode testing program.
+After changing it manually to "isDigitorialPermutation" as defined by my first prompt it succesfully tested.
