@@ -1,0 +1,7 @@
+************* Module 3910G4_V2
+C0304:missing-final-newline: 77,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3910G4_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 12,4: Method name "evenSumSubgraphs" doesn't conform to snake_case naming style
+
+------------------------------------------------------------------
+Your code has been rated at 9.09/10 (previous run: 9.39/10, -0.30)
