@@ -1,0 +1,11 @@
+************* Module 3868G4_V2
+C0304:missing-final-newline:119,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3868G4_V2" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  7,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name: 13,4: Method name "minCost" doesn't conform to snake_case naming style
+W0613:unused-argument: 86,45: Unused argument 'sinks'
+W0612:unused-variable:116,12: Unused variable 'val'
+R0903:too-few-public-methods:  7,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 9.05/10
