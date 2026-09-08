@@ -1,0 +1,9 @@
+************* Module 3867G4_V2
+C0304:missing-final-newline: 56,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3867G4_V2" doesn't conform to snake_case naming style
+R1731:consider-using-max-builtin: 28,12: Consider using 'mxi = max(mxi, num)' instead of unnecessary if block
+W0612:unused-variable: 21,8: Unused variable 'n'
+R0903:too-few-public-methods:  9,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 7.62/10
