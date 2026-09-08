@@ -1,0 +1,14 @@
+************* Module 3830G4_V2
+C0301:line-too-long: 26,0: Line too long (104/100)
+C0301:line-too-long: 27,0: Line too long (104/100)
+C0301:line-too-long: 37,0: Line too long (107/100)
+C0301:line-too-long: 38,0: Line too long (107/100)
+C0304:missing-final-newline: 73,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3830G4_V2" doesn't conform to snake_case naming style
+R1731:consider-using-max-builtin: 52,12: Consider using 'max_len = max(max_len, current_max)' instead of unnecessary if block
+R1731:consider-using-max-builtin: 64,16: Consider using 'max_len = max(max_len, combined_len)' instead of unnecessary if block
+R1731:consider-using-max-builtin: 70,16: Consider using 'max_len = max(max_len, combined_len)' instead of unnecessary if block
+R0912:too-many-branches: 13,4: Too many branches (14/12)
+
+-----------------------------------
+Your code has been rated at 7.22/10
