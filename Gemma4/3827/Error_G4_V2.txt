@@ -1,5 +1,0 @@
-AttributeError: Solution instance has no attribute 'countMonobit'
-    ret = Solution().countMonobit(param_1)
-Line 60 in _driver (Solution.py)
-    _driver()
-Line 74 in <module> (Solution.py)
