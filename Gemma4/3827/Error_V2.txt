@@ -1,0 +1,2 @@
+Gemma changed the functions name to "count_monobit" which cant be opened by the Leetcode testing programm.
+After changing it manually to "countMonobit" as defined by my first prompt it succesfully tested.
