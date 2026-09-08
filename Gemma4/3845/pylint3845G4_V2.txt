@@ -1,0 +1,27 @@
+************* Module 3845G4_V2
+C0303:trailing-whitespace: 33,55: Trailing whitespace
+C0303:trailing-whitespace: 76,0: Trailing whitespace
+C0303:trailing-whitespace: 79,0: Trailing whitespace
+C0303:trailing-whitespace: 84,0: Trailing whitespace
+C0303:trailing-whitespace: 92,0: Trailing whitespace
+C0303:trailing-whitespace: 97,0: Trailing whitespace
+C0303:trailing-whitespace:101,0: Trailing whitespace
+C0303:trailing-whitespace:111,0: Trailing whitespace
+C0303:trailing-whitespace:112,77: Trailing whitespace
+C0303:trailing-whitespace:115,0: Trailing whitespace
+C0303:trailing-whitespace:133,0: Trailing whitespace
+C0303:trailing-whitespace:136,0: Trailing whitespace
+C0303:trailing-whitespace:137,45: Trailing whitespace
+C0303:trailing-whitespace:148,0: Trailing whitespace
+C0303:trailing-whitespace:151,0: Trailing whitespace
+C0303:trailing-whitespace:161,0: Trailing whitespace
+C0303:trailing-whitespace:164,0: Trailing whitespace
+C0304:missing-final-newline:165,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3845G4_V2" doesn't conform to snake_case naming style
+W0612:unused-variable: 81,8: Unused variable 'prefix_xor'
+W0612:unused-variable: 85,8: Unused variable 'left'
+C0103:invalid-name:118,4: Method name "maxXor" doesn't conform to snake_case naming style
+
+-----------------------------------
+Your code has been rated at 7.44/10
+
