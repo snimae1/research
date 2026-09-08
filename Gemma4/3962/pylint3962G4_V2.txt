@@ -1,0 +1,9 @@
+************* Module 3962G4_V2
+C0304:missing-final-newline: 73,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3962G4_V2" doesn't conform to snake_case naming style
+R0913:too-many-arguments: 12,4: Too many arguments (6/5)
+R0917:too-many-positional-arguments: 12,4: Too many positional arguments (6/5)
+R0914:too-many-locals: 12,4: Too many local variables (16/15)
+
+-----------------------------------
+Your code has been rated at 8.53/10
