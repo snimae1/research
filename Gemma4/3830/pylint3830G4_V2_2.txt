@@ -1,0 +1,17 @@
+************* Module 3830G4_V2
+C0301:line-too-long: 24,0: Line too long (104/100)
+C0301:line-too-long: 25,0: Line too long (104/100)
+C0301:line-too-long: 35,0: Line too long (107/100)
+C0301:line-too-long: 36,0: Line too long (107/100)
+C0304:missing-final-newline: 71,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3830G4_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 11,4: Method name "longestAlternating" doesn't conform to snake_case naming style
+R1731:consider-using-max-builtin: 50,12: Consider using 'max_len = max(max_len, current_max)' instead of unnecessary if block
+R1731:consider-using-max-builtin: 62,16: Consider using 'max_len = max(max_len, combined_len)' instead of unnecessary if block
+R1731:consider-using-max-builtin: 68,16: Consider using 'max_len = max(max_len, combined_len)' instead of unnecessary if block
+R0912:too-many-branches: 11,4: Too many branches (14/12)
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 7.22/10, -0.56)
+
