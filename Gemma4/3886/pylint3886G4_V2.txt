@@ -1,0 +1,14 @@
+************* Module 3886G4_V2
+C0303:trailing-whitespace: 22,0: Trailing whitespace
+C0303:trailing-whitespace: 30,0: Trailing whitespace
+C0303:trailing-whitespace: 35,0: Trailing whitespace
+C0303:trailing-whitespace: 46,0: Trailing whitespace
+C0303:trailing-whitespace: 58,0: Trailing whitespace
+C0303:trailing-whitespace: 67,0: Trailing whitespace
+C0303:trailing-whitespace: 71,0: Trailing whitespace
+C0304:missing-final-newline: 74,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3886G4_V2" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 7.22/10
