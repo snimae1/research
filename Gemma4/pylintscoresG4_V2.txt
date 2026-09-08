@@ -1,5 +1,5 @@
 #Scores are a little lower than they could be because of my naming conventions from leetcode and me
-averagescore  V2 x/10  V1 2,34/10
+averagescore  V2 7,56/10  V1 2,34/10
 3818          4.29/10
 3823          7.65/10
 3827          7.27/10
