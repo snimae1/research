@@ -1,0 +1,7 @@
+************* Module 3833G4_V2
+C0304:missing-final-newline: 42,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3833G4_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 21,4: Method name "dominantIndices" doesn't conform to snake_case naming style
+
+-----------------------------------
+Your code has been rated at 8.12/10
