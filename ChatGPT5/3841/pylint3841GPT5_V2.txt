@@ -1,0 +1,10 @@
+************* Module 3841GPT5_V2
+C0304:missing-final-newline:294,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3841GPT5_V2" doesn't conform to snake_case naming style
+R0902:too-many-instance-attributes: 65,0: Too many instance attributes (8/7)
+R0903:too-few-public-methods: 65,0: Too few public methods (1/2)
+C0103:invalid-name:185,4: Method name "palindromePath" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:182,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 9.58/10
