@@ -1,7 +1,0 @@
-************* Module 3818GPT5_V2
-C0103:invalid-name:  1,0: Module name "3818GPT5_V2" doesn't conform to snake_case naming style
-C0103:invalid-name:  6,4: Method name "minimumPrefixLength" doesn't conform to snake_case naming style
-R0903:too-few-public-methods:  3,0: Too few public methods (1/2)
-
-------------------------------------------------------------------
-Your code has been rated at 5.00/10 (previous run: 6.67/10, -1.67)
