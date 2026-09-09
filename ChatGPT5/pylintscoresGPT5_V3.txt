@@ -1,16 +1,16 @@
 #Scores are a little lower than they could be because of my naming conventions from leetcode and me
-averagescore  V3 x/10  V1 4,22/10
-3818          3.33/10
-3823          6.88/10
-3827          x/10
-3830          x/10
-3833          x/10
-3834          x/10
-3835          x/10
-3836          x/10
-3838          x/10
-3841          x/10
-3842          x/10
+averagescore  V4 x/10  V1 4,22/10
+3818          3.33/10  V3score
+3823          6.88/10  V3score
+3827          5.00/10  
+3830          9.05/10  V3score
+3833          6.15/10  V3score
+3834          6.00/10  V3score
+3835          7.73/10       
+3836          7.50/10  
+3838          4.44/10  V3score
+3841          9.58/10  V2score
+3842          5.00/10
 3843          x/10
 3844          x/10
 3845          x/10
