@@ -1,0 +1,6 @@
+Gebe den Code bitte in Pythonformat aus
+
+# after i saw that the problem with the code only appears
+# if the code is shown as text instead of as pythoncode
+# i used this prompt instead
+# maybe ChatGPT flags code as text if it has too much comments instead of code
