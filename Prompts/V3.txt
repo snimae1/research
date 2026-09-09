@@ -1,5 +1,5 @@
 Dein Code hat nicht mehr die für Python nötige Syntax.
 Korrigiere die Einrückung, ohne den restlichen Code zu verändern.
-Rückmeldung vom Compiler "IndentationError: expected an indented block"
+Rückmeldung vom Compiler "IndentationError: expected an indented block after class definition"
 
 #only for ChatGPT5, because after V2 the python syntax was not preserved
