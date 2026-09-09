@@ -1,0 +1,10 @@
+************* Module 3830GPT5_V3
+C0304:missing-final-newline:143,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3830GPT5_V3" doesn't conform to snake_case naming style
+C0103:invalid-name:  9,4: Method name "longestAlternating" doesn't conform to snake_case naming style
+R1714:consider-using-in: 61,19: Consider merging these comparisons with 'in' by using 'previous not in (0, new_comparison)'. Use a set instead if elements are hashable.
+R1714:consider-using-in: 67,19: Consider merging these comparisons with 'in' by using 'following not in (0, new_comparison)'. Use a set instead if elements are hashable.
+R0903:too-few-public-methods:  6,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 9.05/10
