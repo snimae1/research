@@ -1,0 +1,9 @@
+************* Module 3863GPT5_V4
+C0304:missing-final-newline: 42,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3863GPT5_V4" doesn't conform to snake_case naming style
+C0103:invalid-name:  7,4: Method name "minOperations" doesn't conform to snake_case naming style
+R1714:consider-using-in: 38,15: Consider merging these comparisons with 'in' by using 'char in (minimum_char, maximum_char)'. Use a set instead if elements are hashable.
+R0903:too-few-public-methods:  4,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 8.00/10, -1.33)
