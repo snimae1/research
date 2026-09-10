@@ -1,0 +1,9 @@
+************* Module 3845GPT5_V2
+C0304:missing-final-newline:155,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3845GPT5_V2" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  6,0: Too few public methods (0/2)
+C0103:invalid-name: 72,4: Method name "maxXor" doesn't conform to snake_case naming style
+R0903:too-few-public-methods: 68,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 9.28/10 (previous run: 9.42/10, -0.14)
