@@ -1,0 +1,6 @@
+************* Module 3854GPT5_V4
+C0304:missing-final-newline: 91,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3854GPT5_V4" doesn't conform to snake_case naming style
+
+------------------------------------------------------------------
+Your code has been rated at 9.56/10
