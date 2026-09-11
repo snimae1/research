@@ -1,0 +1,9 @@
+************* Module 3915GPT5_V2
+C0304:missing-final-newline: 83,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3915GPT5_V2" doesn't conform to snake_case naming style
+C0103:invalid-name: 34,4: Method name "maxAlternatingSum" doesn't conform to snake_case naming style
+R0914:too-many-locals: 34,4: Too many local variables (17/15)
+R0903:too-few-public-methods: 31,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 8.81/10 (previous run: 9.05/10, -0.24)
