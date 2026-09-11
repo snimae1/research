@@ -1,0 +1,6 @@
+************* Module 3918GPT5_V4
+C0304:missing-final-newline: 46,0: Final newline missing
+R0205:useless-object-inheritance:  6,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+
+-----------------------------------
+Your code has been rated at 8.95/10
