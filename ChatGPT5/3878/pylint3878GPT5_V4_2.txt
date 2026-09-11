@@ -1,0 +1,8 @@
+************* Module 3878GPT5_V4
+C0304:missing-final-newline: 49,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3878GPT5_V4" doesn't conform to snake_case naming style
+C0103:invalid-name: 16,4: Method name "countGoodSubarrays" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  4,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 8.26/10 (previous run: 8.70/10, -0.43)
