@@ -1,0 +1,11 @@
+************* Module 3900GPT5_V4
+C0304:missing-final-newline: 70,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3900GPT5_V4" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  4,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+R0913:too-many-arguments:  7,4: Too many arguments (7/5)
+R0917:too-many-positional-arguments:  7,4: Too many positional arguments (7/5)
+C0103:invalid-name: 21,4: Method name "longestBalanced" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  4,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 7.81/10
