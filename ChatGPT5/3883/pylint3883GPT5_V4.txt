@@ -1,0 +1,9 @@
+************* Module 3883GPT5_V4
+C0304:missing-final-newline: 72,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3883GPT5_V4" doesn't conform to snake_case naming style
+C0103:invalid-name: 10,4: Method name "countArrays" doesn't conform to snake_case naming style
+C0103:invalid-name: 10,26: Argument name "digitSum" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  7,0: Too few public methods (1/2)
+
+-----------------------------------
+Your code has been rated at 8.44/10
