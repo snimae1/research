@@ -1,0 +1,9 @@
+************* Module 3872GPT5_V4
+C0304:missing-final-newline:138,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3872GPT5_V4" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  6,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+R0913:too-many-arguments:106,4: Too many arguments (6/5)
+R0917:too-many-positional-arguments:106,4: Too many positional arguments (6/5)
+
+-----------------------------------
+Your code has been rated at 9.06/10
