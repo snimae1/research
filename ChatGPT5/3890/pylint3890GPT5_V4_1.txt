@@ -1,0 +1,7 @@
+************* Module 3890GPT5_V4
+C0304:missing-final-newline: 53,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3890GPT5_V4" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  4,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+
+-----------------------------------
+Your code has been rated at 8.33/10
