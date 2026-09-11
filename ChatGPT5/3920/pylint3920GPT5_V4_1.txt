@@ -1,0 +1,7 @@
+************* Module 3920GPT5_V4
+C0304:missing-final-newline: 77,0: Final newline missing
+R0205:useless-object-inheritance:  6,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+R0914:too-many-locals:  9,4: Too many local variables (16/15)
+
+-----------------------------------
+Your code has been rated at 9.23/10
