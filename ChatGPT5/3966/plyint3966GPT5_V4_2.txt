@@ -1,0 +1,9 @@
+************* Module 3966GPT5_V4
+C0304:missing-final-newline: 89,0: Final newline missing
+C0103:invalid-name:  1,0: Module name "3966GPT5_V4" doesn't conform to snake_case naming style
+R0205:useless-object-inheritance:  8,0: Class 'Solution' inherits from object, can be safely removed from bases in python3
+C0103:invalid-name: 12,4: Method name "goodIntegers" doesn't conform to snake_case naming style
+R0903:too-few-public-methods:  8,0: Too few public methods (1/2)
+
+------------------------------------------------------------------
+Your code has been rated at 7.92/10 (previous run: 9.17/10, -1.25)
