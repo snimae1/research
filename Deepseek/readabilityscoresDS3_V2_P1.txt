@@ -1,4 +1,4 @@
-averagescore 4,92/5
+averagescore 4,98/5
 3818         5/5 
 3823         5/5
 3827         4/5
