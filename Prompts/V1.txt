@@ -3,4 +3,4 @@ class Solution(object):
     def "Name of Function in Leetcode"("parameter in Leetcode"):
 
 , welches folgende Aufgabe löst:
-"Aufgaben Text aus Leetcode"
+"Aufgabentext aus Leetcode"
