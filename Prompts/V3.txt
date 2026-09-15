@@ -2,4 +2,4 @@ Dein Code hat nicht mehr die für Python nötige Syntax.
 Korrigiere die Einrückung, ohne den restlichen Code zu verändern.
 Rückmeldung vom Compiler "IndentationError: expected an indented block after class definition"
 
-#only for ChatGPT5, because after V2 the python syntax was not preserved
+#only for GPT5, because after V2 GPT5 sometimes gave the code back in Textformat which doesnt preserve Python Syntax
