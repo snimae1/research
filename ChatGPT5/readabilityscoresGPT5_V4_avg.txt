@@ -1,18 +1,18 @@
-averagescore x/5
-3818         x/5 
-3823         x/5
+averagescore V4:  x/5  V1:  4,08/5
+3818         x/5  V3score
+3823         x/5  V3score
 3827         x/5
-3830         x/5 
-3833         x/5 
-3834         x/5
+3830         x/5  V3score
+3833         x/5  V3score 
+3834         x/5  V3score
 3835         x/5
 3836         x/5
-3838         x/5
-3841         x/5 
+3838         x/5  V3score
+3841         x/5  V2score 
 3842         x/5
-3843         x/5 
+3843         x/5  V2score 
 3844         x/5 
-3845         x/5 
+3845         x/5  V2score 
 3847         x/5 
 3848         x/5
 3852         x/5 
@@ -23,10 +23,10 @@ averagescore x/5
 3862         x/5 
 3863         x/5 
 3866         x/5 
-3867         x/5 
+3867         x/5  V2score 
 3868         x/5
-3870         x/5 
-3871         x/5
+3870         x/5  V2score
+3871         x/5  V2score
 3872         x/5 
 3873         x/5 
 3875         x/5 
@@ -34,32 +34,32 @@ averagescore x/5
 3878         x/5 
 3880         x/5 
 3881         x/5 
-3882         x/5 
+3882         x/5  V2score
 3883         x/5 
 3884         x/5 
 3885         x/5 
-3886         x/5 
+3886         x/5  V2score 
 3889         x/5 
 3890         x/5 
 3892         x/5 
 3894         x/5 
-3895         x/5
+3895         x/5  V2score
 3896         x/5 
 3897         x/5 
-3898         x/5
-3899         x/5
+3898         x/5  V2score
+3899         x/5  V2score
 3900         x/5 
 3901         x/5
-3903         x/5 
-3904         x/5 
-3905         x/5 
-3908         x/5 
+3903         x/5  V2score 
+3904         x/5  V2score 
+3905         x/5  V2score
+3908         x/5  V2score 
 3909         x/5
 3910         x/5 
-3912         x/5
+3912         x/5  V2score
 3913         x/5 
 3914         x/5 
-3915         x/5 
+3915         x/5  V2score 
 3918         x/5
 3920         x/5 
 3962         x/5
