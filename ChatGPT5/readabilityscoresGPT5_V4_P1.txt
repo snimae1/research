@@ -1,4 +1,4 @@
-averagescore 4,83/5
+averagescore V4: 4,83/5  V1: 4,38/5
 3818         5/5  V3score
 3823         4/5  V3score
 3827         4/5
