@@ -4,10 +4,11 @@ C0303:trailing-whitespace: 17,0: Trailing whitespace
 C0303:trailing-whitespace: 21,0: Trailing whitespace
 C0303:trailing-whitespace: 26,0: Trailing whitespace
 C0303:trailing-whitespace: 34,0: Trailing whitespace
+C0304:missing-final-newline: 35,0: Final newline missing
 C0114:missing-module-docstring:  1,0: Missing module docstring
 C0103:invalid-name:  1,0: Module name "3823DS3_V2" doesn't conform to snake_case naming style
 C0103:invalid-name:  4,4: Method name "reverseByType" doesn't conform to snake_case naming style
 R0903:too-few-public-methods:  1,0: Too few public methods (1/2)
 
------------------------------------
-Your code has been rated at 4.38/10
+------------------------------------------------------------------
+Your code has been rated at 3.75/10
