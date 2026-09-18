@@ -1,5 +1,5 @@
 #Scores are a little lower than they could be because of my naming conventions from leetcode and me
-averagescore  2,34/10
+averagescore  2,32/10
 3818          0.00/10
 3823          2.35/10
 3827          0.91/10
