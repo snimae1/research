@@ -1,5 +1,5 @@
-Der gesamte von Gemma erstellte Code für die Aufgabe.
-Wobei eigentlich ja nur die zweite hälfte mit der richtigen Syntax gefordert war.
+#Der gesamte von Gemma erstellte Code für die Aufgabe.
+#Wobei eigentlich ja nur die zweite hälfte mit der richtigen Syntax gefordert war.
 
 class Solution(object):
     def makeParityAlternating(self, nums):
