@@ -1,3 +1,4 @@
+#Der für die Aufgabenstellung relevante Teil des von Gemma erstellten Programmcodes
 class Solution(object):
     def makeParityAlternating(self, nums):
         """
